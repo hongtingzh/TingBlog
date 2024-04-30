@@ -28,7 +28,7 @@ words_per_minute: 200
 
 email: your-email@example.com
 
-baseurl: "/TingBlog"  # the subpath of your site, e.g. /blog
+baseurl: "/TingBlog/"  # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -47,6 +47,14 @@ CNAME: #add cname for website to be created
 
 twitter: tryghost # replace by your username
 facebook: ghost # replace by your username
+
+# Permalinks
+permalink: /:title
+# permalink: /author/:author
+# permalink: /tag/:tag
+
+# Authors' info in `_data/authors.yml`
+# Tags' info in `_data/tags_info.yml`
 
 # Build settings
 # theme: minima
