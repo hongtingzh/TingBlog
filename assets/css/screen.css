@@ -112,7 +112,6 @@ body {
     color: #fff;
     background: color(var(--darkgrey) l(-5%)) no-repeat center center;
     background-size: cover;
-    background-color: #000;
 }
 
 .site-header:before {
@@ -551,13 +550,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 /* 7. Single Post
 /* ---------------------------------------------------------- */
 
-.post-template .site-main {
-    padding-bottom: 4vw;
-    margin: 0vw 30vw;
-    background: #fff;
-}
-
-
+.post-template .site-main,
 .page-template .site-main {
     padding-bottom: 4vw;
     background: #fff;
@@ -565,7 +558,6 @@ The first (most recent) post in the list is styled to be bigger than the others 
 
 .post-full {
     position: relative;
-    margin: -5vw;
     z-index: 50;
 }
 /* ^ Required to make .post-full-content:before/after z-index stacking work */
@@ -606,8 +598,6 @@ The first (most recent) post in the list is styled to be bigger than the others 
     margin: 0 6px 1px;
 }
 
-
-
 .post-full-image {
     margin: 0 0vw 0px;
     height: 400px;
@@ -627,8 +617,9 @@ The first (most recent) post in the list is styled to be bigger than the others 
 .post-data {
     position: absolute;
     bottom: 0;
-    height: 40%;
-    margin-left: 20px;
+    height: 14rem;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
     /* margin: 45% 10px 30px 30px; */
     color: gainsboro;
 }
@@ -694,9 +685,8 @@ The first (most recent) post in the list is styled to be bigger than the others 
         font-size: 1.9rem;
     }
 }
-
-/* 文章正文开头两边的阴影 */
-/* .post-full-content:before {
+/* 
+.post-full-content:before {
     content: "";
     position: absolute;
     top: 15px;
