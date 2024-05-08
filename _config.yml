@@ -64,10 +64,10 @@ plugins:
 # feed:
 #   path: feed.xml
 
-collections:
-  tags:
-    output: true
-    permalink: /tag/:tagname
+# collections:
+#   tags:
+#     output: true
+#     permalink: /tag/:tagname
 
 
 # Exclude from processing.
