@@ -591,6 +591,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 .post-full-title {
     margin: 0;
     color: color(var(--darkgrey) l(-5%));
+    font-size: 3.5rem;
 }
 
 .date-divider {
@@ -631,9 +632,9 @@ The first (most recent) post in the list is styled to be bigger than the others 
 }
 
 .post-desciption {
-    font-size: 1.8rem;
+    font-size: 1.7rem;
     padding: 10px;
-    /* color: aqua; */
+    color: rgb(190, 190, 190);
 }
 
 .post-card-author {

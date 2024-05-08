@@ -1,10 +1,17 @@
 {% assign words_per_minute = site.words_per_minute | default: 200 %}
+<!-- 
+{% if tag_posts.size == 0 %}
+    {% assign tag_posts = paginator %}
+{% else %}
+    {% assign tag_posts = tag_posts %}
+{% endif %} -->
 
-{% for post in paginator.posts %}
+
+{% for post in tag_posts %}
     <article class="post-card {{ page.class }}{% unless post.cover %} no-image{% endunless %}">
             {% if post.cover %}
             <a class="post-card-image-link" href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
-                <div class="post-card-image" style="background-image: url('{{ post.cover }}')"></div>
+                <div class="post-card-image" style="background-image: url('{{ site.baseurl }}{{ post.cover }}')"></div>
             </a>
             {% endif %}
         <div class="post-card-content">
@@ -34,7 +41,7 @@
                 {% for author in site.data.authors %}
                     {% if author[1].username == post.author %}
                         {% if author[1].picture %}
-                        <img class="author-profile-image" src="{{ author[1].picture }}" alt="{{ author[1].name }}" />
+                        <img class="author-profile-image" src="{{ site.baseurl }}{{ author[1].picture }}" alt="{{ author[1].name }}" />
                         {% endif %}
                         <span class="post-card-author">
                             <a href="{{ site.baseurl }}author/{{ post.author }}/">{{ author[1].name }}</a>

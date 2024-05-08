@@ -1,0 +1,84 @@
+---
+layout: default
+current: tag
+title: Tag Page
+cover: True
+class: 'tag-template'
+navigation: True
+logo: 'assets/images/ghost.png'
+---
+
+<!-- default -->
+<!-- The tag above means - insert everything in this file into the {body} of the default.hbs template -->
+
+<!-- The big featured header, it uses blog cover image as a BG if available -->
+<!-- #tag -->
+{% include dynamic_tag_info.html %}
+
+{% if page.tag %}
+    <p>{{ tag_description }}</p>
+{% elsif page.tag %}
+    <p>A collection of {{ paginator.total_posts }} posts</p>
+{% endif %}
+
+<h1>{{ tag }}</h1>
+{% assign tag_posts = site.tags[tag] %}
+<h1>{{ tag_posts.size }} posts</h1>
+
+<h1>tagName: {{ tagname }}</h1>
+
+
+<!-- style="display: none;" -->
+
+
+
+<script>
+    // 这里放置您的 JavaScript 代码
+    window.onload = function() {
+    // 在页面加载完成后执行的 JavaScript 代码
+    // 获取当前页面的 URL
+    var currentUrl = window.location.href;
+    
+    // 通过正则表达式提取标签部分
+    var tagMatch = currentUrl.match(/\/tag\/([^\/]+)/);
+    
+    // 如果存在匹配项，则提取标签名
+    if (tagMatch) {
+      var tag = tagMatch[1];
+      console.log("Tag: " + tag);
+      // 将标签名存储在隐藏的 div 元素中
+      document.getElementById("tag").textContent = tag;
+    }
+            console.log("页面加载完成");
+            // document.getElementById("post-count").textContent = "{{ tag_posts.size }}";
+    };
+    
+    
+  </script>
+<header style="background-color: black;" class="site-header outer {% if cover or page.cover %}" style="background-image: url('{{ site.baseurl }}{% if cover %}{{ cover }}{% else %}{{ page.cover }}{% endif%}') {% else %}no-cover{% endif %}">
+    <div class="inner">
+        {% include site-nav.html %}
+        <div class="site-header-content">
+            <h1 class="site-title">{{ page.tag | capitalizeall }}</h1>
+            <h2 class="site-description">
+                {% if tag_description %}
+                    {{ tag_description }}
+                {% elsif page.tag %}
+    			    A collection of {{ paginator.total_posts }} posts
+                {% endif %}
+            </h2>
+        </div>
+    </div>
+</header>
+<!-- tag -->
+
+<!-- The main content area -->
+<main id="site-main" class="site-main outer" role="main">
+    <div class="inner">
+        <div class="post-feed" id="post-feed">
+            {% include tag-post-card.html post=tag_posts %}
+
+        </div>
+    </div>
+</main>
+

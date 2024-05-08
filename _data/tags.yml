@@ -14,3 +14,11 @@ getting-started:
   name: getting-started
   description: False
   cover: False
+summary:
+  name: summary
+  description: 每周总结，分享自己最近的收获和感悟。
+  cover: assets/images/speeches.jpg
+Reading Notes:
+  name: Reading Notes
+  description: Notes on books that I have read.
+  cover: assets/images/fables.jpg

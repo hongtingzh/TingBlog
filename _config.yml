@@ -21,8 +21,8 @@
 # Jekyll configuration
 markdown: kramdown
 highlighter: rouge
-paginate: 10 # it will paginate after this number
-language: 'en-uk'
+paginate: 100 # it will paginate after this number
+# language: 'en-uk'
 words_per_minute: 200
 
 
@@ -36,9 +36,7 @@ github_username:  jekyll
 # Website info
 title: Ting's Blog
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  记录生活、学习、工作、感悟、心路历程
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
@@ -51,15 +49,26 @@ facebook: ghost # replace by your username
 # Permalinks
 permalink: /:title
 # permalink: /author/:author
-# permalink: /tag/:tag
+
 
 # Authors' info in `_data/authors.yml`
 # Tags' info in `_data/tags_info.yml`
 
 # Build settings
 # theme: minima
+plugins_dir: [_plugins]
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+
+# feed:
+#   path: feed.xml
+
+collections:
+  tags:
+    output: true
+    permalink: /tag/:tagname
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

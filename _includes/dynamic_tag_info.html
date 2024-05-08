@@ -1,0 +1,9 @@
+<!-- dynamically loading backgrounds for tags,  descriptions and page titles -->
+{% assign decoded_url = page.url | url_decode %}
+{% for tag in site.data.tags %}
+    {% if decoded_url contains tag[1].name %}
+        {% assign cover = tag[1].cover %}
+        {% assign tag_description = tag[1].description %}
+        <h1 style="color: aqua;">{{ tag[1].name }}</h1> <!-- 输出标签名称 -->
+    {% endif %}
+{% endfor %}
