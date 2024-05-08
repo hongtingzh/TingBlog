@@ -1,8 +1,8 @@
 ---
 layout: default
 current: tag
-title: Tag Page
-cover: True
+title: All Tags
+cover: 'assets/images/speeches.jpg'
 class: 'tag-template'
 navigation: True
 logo: 'assets/images/ghost.png'
@@ -16,11 +16,11 @@ logo: 'assets/images/ghost.png'
 
 <!-- style="display: none;" -->
 
-<header style="background-color: black;" class="site-header outer {% if cover or page.cover %}" style="background-image: url('{{ site.baseurl }}{% if cover %}{{ cover }}{% else %}{{ page.cover }}{% endif%}') {% else %}no-cover{% endif %}">
+<header class="site-header outer" style="background-image: url('{{ site.baseurl }}{{ page.cover }}');">
     <div class="inner">
         {% include site-nav.html %}
         <div class="site-header-content">
-            <h1 class="site-title">{{ page.tag | capitalizeall }}</h1>
+            <h1 class="site-title">{{ page.title }}</h1>
             <h2 class="site-description">
                 {% if tag_description %}
                     {{ tag_description }}
@@ -38,8 +38,6 @@ logo: 'assets/images/ghost.png'
     <div class="inner">
         <div class="post-feed" id="post-feed">
             {% include tag-post-card.html post=tag_posts %}
-
         </div>
     </div>
 </main>
-
