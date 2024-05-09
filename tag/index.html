@@ -15,6 +15,9 @@ logo: 'assets/images/ghost.png'
 <!-- #tag -->
 
 <!-- style="display: none;" -->
+<head>
+    <link rel="stylesheet" href="{{ 'assets/css/index.css?v=' | append: site.github.build_revision | relative_url }}">
+</head>
 
 <header class="site-header outer" style="background-image: url('{{ site.baseurl }}{{ page.cover }}');">
     <div class="inner">
@@ -39,5 +42,16 @@ logo: 'assets/images/ghost.png'
         <div class="post-feed" id="post-feed">
             {% include tag-post-card.html post=tag_posts %}
         </div>
+
+        <div class="tags">
+            <a class="tag-a" href="{{ site.baseurl }}/tag/summary" style="text-decoration: none;"><div class="tag balloon1 balloon-anim1"><p>Summary</p></div></a>
+            <a href="{{ site.baseurl }}/tag/reading-notes" style="text-decoration: none;"><div class="tag balloon2 balloon-anim6"><p>Reading Notes</p></div></a>
+            <!-- <div class="tag balloon3 balloon-anim3"></div>
+            <div class="tag balloon4 balloon-anim4"></div>
+            <div class="tag balloon5 balloon-anim5"></div> -->
+        </div>
+
+
     </div>
 </main>
+

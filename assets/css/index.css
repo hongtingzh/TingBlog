@@ -1,0 +1,206 @@
+:root {
+  --balloon1-bg-color: #eaeaeae6;
+  --balloon2-bg-color: #e8dab2e6;
+  --balloon3-bg-color: #dd6e42e3;
+  --balloon4-bg-color: #4f6d7ad6;
+  --balloon5-bg-color: #eaeaeae6;
+  --bg-color: #c0d6df;
+
+  --balloon-anim-1: balloon1 15s ease infinite;
+  --balloon-anim-2: balloon2 5s ease infinite;
+  --balloon-anim-3: balloon3 10s ease infinite;
+  --balloon-anim-4: balloon4 5s ease infinite;
+  --balloon-anim-5: balloon5 15s ease infinite;
+  --balloon-anim-6: balloon7 5s ease infinite;
+}
+
+
+.tags {
+  flex-direction: row;
+  display: flex;
+  justify-content: center;
+}
+/* .name {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+  font-size: 80px;
+  color: #4f6d7a;
+  font-family: "Comic Sans MS", Arial, Helvetica, sans-serif;
+} */
+
+.tag {
+  width: 8em;
+  height: 2.5em;
+  /* margin: 10px; */
+  border-radius: 5%;
+  position: relative;
+  font-size: 1.5em;
+  text-align: center;
+  vertical-align:middle;
+  position:relative;  
+}
+
+.tag:hover{
+  animation-play-state: paused;
+  /* transform: translate(-140px,-15px)  */
+  filter: brightness(80%);
+}
+p {
+  color: #4f6d7a;
+  font-family: "Comic Sans MS", Arial, Helvetica, sans-serif;
+  text-align: center;
+  vertical-align:middle;
+  padding-top: 0.7em;
+}
+
+.tags .tag::before {
+  position: absolute;
+  top: calc(50% - 15px);
+  left: calc(50% - 10px);
+  font-size: 30px;
+  color: #4f6d7a;
+  font-family: "Comic Sans MS", Arial, Helvetica, sans-serif;
+}
+
+/* .tags .tag:nth-child(1):nth-child(1):before {
+  content: "H";
+}
+.tags .tag:nth-child(2):nth-child(1)::before {
+  content: "A";
+} */
+.tags .tag:nth-child(3)::before {
+  content: "P";
+}
+.tags .tag:nth-child(4)::before {
+  content: "P";
+}
+.tags .tag:nth-child(5)::before {
+  content: "Y";
+}
+
+@keyframes balloon1 {
+  0%,
+  100% {
+    transform: translate(0, 0) rotate(-10deg);
+  }
+  50% {
+    transform: translate(0, 30px) rotate(10deg);
+  }
+}
+
+@keyframes balloon2 {
+  0%,
+  100% {
+    transform: translate(-20px, 40px) rotate(15deg);
+  }
+  50% {
+    transform: translate(0, -10px) rotate(-5deg);
+  }
+}
+
+@keyframes balloon3 {
+  0%,
+  100% {
+    transform: translate(-30px, 0) rotate(-10deg);
+  }
+  50% {
+    transform: translate(0, -20px) rotate(20deg);
+  }
+}
+
+@keyframes balloon4 {
+  0%,
+  100% {
+    transform: translate(-10px, 0) rotate(0deg);
+  }
+  50% {
+    transform: translate(0, 20px) rotate(30deg);
+  }
+}
+
+@keyframes balloon5 {
+  0%,
+  100% {
+    transform: translate(10px, 0) rotate(20deg);
+  }
+  50% {
+    transform: translate(0, 30px) rotate(-20deg);
+  }
+}
+@keyframes balloon6 {
+  0%,
+  100% {
+    transform: translate(-10px, 0) rotate(0deg);
+  }
+  50% {
+    transform: translate(0, 20px) rotate(30deg);
+  }
+}
+
+@keyframes balloon7 {
+  0%,
+  100% {
+    transform: translate(0, 0) rotate(15deg);
+  }
+  50% {
+    transform: translate(0, 0) rotate(-15deg);
+  }
+}
+.balloon1 {
+  background: var(--balloon1-bg-color);
+  /* box-shadow: inset 10px 10px 10px #c7c3c3e6; */
+}
+.balloon1::after {
+  color: var(--balloon1-bg-color);
+}
+
+.balloon2 {
+  background: var(--balloon2-bg-color);
+  /* box-shadow: inset 10px 10px 10px #d5c7a1; */
+}
+.balloon2::after {
+  color: var(--balloon2-bg-color);
+}
+
+.balloon3 {
+  background: var(--balloon3-bg-color);
+  /* box-shadow: inset 10px 10px 10px #cf6840; */
+}
+.balloon3::after {
+  color: var(--balloon3-bg-color);
+}
+
+.balloon4 {
+  background: var(--balloon4-bg-color);
+  box-shadow: inset 10px 10px 10px #4f6d7a;
+}
+.balloon4::after {
+  color: var(--balloon4-bg-color);
+}
+.balloon5 {
+  background: var(--balloon5-bg-color);
+  box-shadow: inset 10px 10px 10px #cbc8c8;
+}
+.balloon5::after {
+  color: var(--balloon5-bg-color);
+}
+
+.balloon-anim1 {
+  animation: var(--balloon-anim-1);
+}
+.balloon-anim2 {
+  animation: var(--balloon-anim-2);
+}
+.balloon-anim3 {
+  animation: var(--balloon-anim-3);
+}
+.balloon-anim4 {
+  animation: var(--balloon-anim-4);
+}
+.balloon-anim5 {
+  animation: var(--balloon-anim-5);
+}
+.balloon-anim6 {
+  animation: var(--balloon-anim-6);
+}
