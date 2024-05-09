@@ -47,7 +47,7 @@
                     {% else %}
                       {{ words | divided_by:words_per_minute }} min read
                     {% endif %} -->
-                    {{ page.date | date:'%Y-%m-%d' }}
+                    {{ page.next.date | date:'%Y-%m-%d' }}
                 </span>
             </footer>
         </div>
