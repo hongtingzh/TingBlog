@@ -1,0 +1,146 @@
+---
+layout: default
+current: tag
+title: Book List
+cover: 'assets/images/speeches.jpg'
+class: 'tag-template'
+navigation: True
+logo: 'assets/images/ghost.png'
+description: "Books I've read or want to read"
+---
+<head>
+    <link rel="stylesheet" href="{{ 'assets/css/booklist.css?v=' | append: site.github.build_revision | relative_url }}">
+</head>
+<header class="site-header outer" style="background-image: url('{{ site.baseurl }}{{ page.cover }}');">
+      <div class="inner">
+          {% include site-nav.html %}
+          <div class="site-header-content">
+              <h1 class="site-title">{{ page.title }}</h1>
+              <h2 class="site-description">
+                  {{ page.description }}
+              </h2>
+          </div>
+      </div>
+</header>
+
+<main id="site-main" class="site-main outer" role="main">
+      <!-- <div class="inner" style="max-width: 800px;">
+  
+          <article class="post-full {% if page.tags.size > 0 %}{% for tag in page.tags %} tag-{{ tag | slugify: 'latin' }}{% endfor %}{% endif %} {{ page.subclass }} {% unless page.cover %}no-image{% endunless %}">
+  
+             {% assign books = site.data.books %}
+             {{ books}}
+             
+             {% for book in books %}
+             <div class="post-full-content">
+                <h1>{{ book[1].name }}</h1>
+                
+                 
+            </div>
+            {% endfor %}
+  
+      </div> -->
+
+
+      <div class="wrapper inner" style="max-width: 1000px;">
+  
+        <div class="table">
+          
+          <div class="row header">
+            <!-- <div class="cell">加入时间</div> -->
+            <div class="cell name">书名</div>
+            <div class="cell author">作者</div>
+            <div class="cell publisher">出版社</div>
+            <div class="cell reason">理由</div>
+            <div class="cell readed">是否已读</div>
+            <!-- <div class="cell readed-date">阅读时间</div> -->
+          </div>
+          
+          <!-- <div class="row">
+            <div class="cell" data-title="Name">
+              Luke Peters
+            </div>
+            <div class="cell" data-title="Age">
+              25
+            </div>
+            <div class="cell" data-title="Occupation">
+              Freelance Web Developer
+            </div>
+            <div class="cell" data-title="Location">
+              Brookline, MA
+            </div>
+          </div> -->
+
+          {% assign books = site.data.books %}
+          {% for book in books %}
+          <div class="row">
+            <!-- <div class="cell" data-title="加入时间">{{ book[1].add-time }}</div> -->
+            <div class="cell name" data-title="书名">《{{ book[1].name }}》</div>
+            <div class="cell author" data-title="作者">{{ book[1].author }}</div>
+            <div class="cell publisher" data-title="出版社">{{ book[1].publisher }}</div>
+            <div class="cell reason" data-title="原因">{{ book[1].reason }}</div>
+            <div class="cell readed {% if book[1].readed == true %}readed-yes{% else %}readed-no{% endif %}" data-title="是否已读">
+                {% if book[1].readed == true %}
+                    已读
+                {% else %}
+                    未读
+                {% endif %}
+            </div>
+            <!-- <div class="cell readed-date" data-title="阅读时间">{{ book[1].readed-date }}</div> -->
+          </div>
+          {% endfor %}
+          
+          <!-- <div class="row">
+            <div class="cell" data-title="Name">
+              Joseph Smith
+            </div>
+            <div class="cell" data-title="Age">
+              27
+            </div>
+            <div class="cell" data-title="Occupation">
+              Project Manager
+            </div>
+            <div class="cell" data-title="Location">
+              Somerville, MA
+            </div>
+          </div> -->
+          
+          <!-- <div class="row">
+            <div class="cell" data-title="Name">
+              Maxwell Johnson
+            </div>
+            <div class="cell" data-title="Age">
+              26
+            </div>
+            <div class="cell" data-title="Occupation">
+              UX Architect & Designer
+            </div>
+            <div class="cell" data-title="Location">
+              Arlington, MA
+            </div>
+          </div>
+          
+          <div class="row">
+            <div class="cell" data-title="Name">
+              Harry Harrison
+            </div>
+            <div class="cell" data-title="Age">
+              25
+            </div>
+            <div class="cell" data-title="Occupation">
+              Front-End Developer
+            </div>
+            <div class="cell" data-title="Location">
+              Boston, MA
+            </div>
+          </div> -->
+          
+        </div>
+        
+      </div>
+</main>
+
+<script>
+    var test = document.getElementsByClassName("reason");
+    console.log(test);
+</script>

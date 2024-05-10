@@ -48,7 +48,7 @@ facebook: ghost # replace by your username
 
 # Permalinks
 permalink: /:title
-# permalink: /author/:author
+# permalink: /booklist/:book
 
 
 # Authors' info in `_data/authors.yml`

@@ -204,3 +204,26 @@ p {
 .balloon-anim6 {
   animation: var(--balloon-anim-6);
 }
+
+@media screen and (max-width: 580px) {
+  .tags {
+    width: 100%;
+  }
+
+  .tag {
+    width: 100%;
+    /* height: 2.5em; */
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    border-radius: 5%;
+    position: relative;
+    font-size: 1em;
+    text-align: center;
+    vertical-align:middle;
+    position:relative;  
+  }
+
+  p {
+    padding-top: 0.5em;
+  }
+}

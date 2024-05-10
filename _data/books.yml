@@ -1,0 +1,47 @@
+如何有效阅读一本书:
+  name: 如何有效阅读一本书
+  author: (日)奥野宣之
+  publisher: 江西人民出版社
+  add-time: 2023-01-04
+  picture: assets/images/ghost.png
+  reason: 因为重启了读书计划，加之以前自己做读书笔记有很多困惑，所以打算在读新书之前先看完这本书，为之后自己的读书打下基础。之后也能按这本书中的方法来实践，找到适合自己的做读书笔记的方法。
+  readed: True
+  readed-date: 2024-01-04
+你当像鸟飞往你的山:
+  name: 你当像鸟飞往你的山
+  author: (美)塔拉·韦斯特弗
+  publisher: 天津人民出版社
+  add-time: 2023-01-05
+  picture: assets/images/ghost.png
+  reason: 读过一部分，很喜欢，能抚平我焦虑的心。决定再重新读，做好笔记。
+  readed: False
+  readed-date: /
+瓦尔登湖:
+  name: 瓦尔登湖
+  author: (美)亨利·戴维·梭罗
+  publisher: 南海出版社
+  add-time: 2023-01-05
+  picture: assets/images/ghost.png
+  reason: 记得以前首次读这本书对我有很大的触动，决定再读一遍，做好笔记。
+  readed: False
+  readed-date: /
+自深深处:
+  name: 自深深处
+  author: (美)王尔德
+  publisher: 南海出版社
+  add-time: 2023-01-05
+  picture: assets/images/ghost.png
+  reason: 最近因受访“小凡人物"想起之前对自己感触很深的一句话“悲怆中自有圣洁之境”。于是决定重读这本书，并且做好笔记。
+  readed: False
+  readed-date: /
+我与地坛:
+  name: 我与地坛
+  author: 史铁生
+  publisher: 人民文学出版社
+  add-time: 2023-01-05
+  picture: assets/images/ghost.png
+  reason: 余华老师总是提及史铁生老师，加上之前听了文化有限的关于《我与地坛》的播客，顿时有了兴趣读这本书。
+  readed: True
+  readed-date: 2024-04-25~2024-05-06
+
+
