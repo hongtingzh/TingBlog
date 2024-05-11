@@ -43,8 +43,8 @@ logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 CNAME: #add cname for website to be created
 
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+# twitter: tryghost # replace by your username
+# facebook: ghost # replace by your username
 
 # Permalinks
 permalink: /:title
