@@ -14,7 +14,7 @@
   add-time: 2023-01-05
   picture: assets/images/ghost.png
   reason: 记得以前首次读这本书对我有很大的触动，决定再读一遍，做好笔记。
-  readed: False
+  readed: True
   readed-date: /
 瓦尔登湖:
   name: 瓦尔登湖
@@ -43,5 +43,23 @@
   reason: 余华老师总是提及史铁生老师，加上之前听了文化有限的关于《我与地坛》的播客，顿时有了兴趣读这本书。
   readed: True
   readed-date: 2024-04-25~2024-05-06
+半小时漫画中国地理:
+  name: 半小时漫画中国地理:
+  author: 陈磊·半小时漫画团队
+  publisher: 浙江科学技术出版社
+  add-time: 2024-05-23
+  picture: assets/images/ghost.png
+  reason: 最近想重新回顾历史，在微信读书刷到这本书，有趣不枯燥。
+  readed: False
+  readed-date: /
+半小时漫画中国史记:
+  name: 半小时漫画中国史记:
+  author: 陈磊·半小时漫画团队
+  publisher: 河南文艺出版社
+  add-time: 2024-05-23
+  picture: assets/images/ghost.png
+  reason: 半小时中国地理需要付费，搜了一下发现这个团队有很多书记，史记就是其中一本。
+  readed: False
+  readed-date: /
 
 
