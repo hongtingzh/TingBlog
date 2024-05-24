@@ -618,7 +618,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 .post-data {
     position: absolute;
     bottom: 0;
-    height: 14rem;
+    /* height: 14rem; */
     margin-left: 1rem;
     margin-bottom: 1rem;
     /* margin: 45% 10px 30px 30px; */
@@ -1063,6 +1063,23 @@ Usage (In Ghost editor):
     .post-full-content:before,
     .post-full-content:after {
         display: none;
+    }
+    .post-title {
+        color: #ffffff;
+        font-size: 2.0rem;
+        padding: 5px;
+    }
+    
+    .post-desciption {
+        font-size: 1.5rem;
+        padding: 5px;
+        color: rgb(190, 190, 190);
+    }
+    
+    .post-card-author {
+        height: 30%;
+        font-size: 1.2rem;
+        
     }
 }
 
