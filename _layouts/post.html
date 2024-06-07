@@ -220,9 +220,15 @@ into the {body} of the default.hbs template -->
 <script type="text/javascript" src="{{ '/assets/themes/ui-5.0.36/dist/fancybox/fancybox.umd.js?v=' | append: site.github.build_revision | relative_url }}"></script>
 <script>
 // 给图片添加链接
+var imgsNum = $("p img").length;
 $(document).ready(function() {
   $("p img").each(function() {
-    var strA = "<a data-fancybox='gallery' id='yourid'  data-src='" + this.src + "'></a>";
+    if (imgsNum > 1) {
+        var strA = "<a data-fancybox='gallery' id='yourid'  data-src='" + this.src + "'></a>";
+    }
+    else {
+        var strA = "<a data-fancybox id='yourid'  data-src='" + this.src + "'></a>";
+    }
     $(this).wrapAll(strA);
   });
 });
