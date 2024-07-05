@@ -68,6 +68,9 @@ collections:
   tag:
     output: true
     permalink: /tag/:tag
+  moments:
+    output: true
+    permalink: /moments/:moments
 
 
 # Exclude from processing.

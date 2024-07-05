@@ -36,5 +36,4 @@ subclass: 'post'
 
 #### 联系我
 
-- 邮箱（推荐）：<hongtingzht@gmail.com>
-- 微信：Infinitewoop
+- 邮箱：<hongtingzht@gmail.com>
