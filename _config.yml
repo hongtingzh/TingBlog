@@ -68,7 +68,7 @@ collections:
   tag:
     output: true
     permalink: /tag/:tag
-  moments:
+  Harry Potter:
     output: true
     permalink: /moments/:moments
 
