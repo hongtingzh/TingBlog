@@ -30,6 +30,7 @@ email: your-email@example.com
 
 baseurl: "/TingBlog/"  # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+SourceBaseUrl: "https://hongtingzh.github.io/Sources/audios/"
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -70,7 +71,7 @@ collections:
     permalink: /tag/:tag
   Harry Potter:
     output: true
-    permalink: /moments/:moments
+    permalink: /Harry-Potter/:Harry-Potter
 
 
 # Exclude from processing.
