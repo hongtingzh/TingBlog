@@ -1,731 +1,902 @@
 List1:
-- name: VANISHING
-  url: https://dict.youdao.com/dictvoice?type=2&audio=VANISHING
-- name: woken
-  url: https://dict.youdao.com/dictvoice?type=2&audio=woken
-- name: tidy
-  url: https://dict.youdao.com/dictvoice?type=2&audio=tidy
-- name: lit
-  url: https://dict.youdao.com/dictvoice?type=2&audio=lit
-- name: brass
-  url: https://dict.youdao.com/dictvoice?type=2&audio=brass
-- name: crept
-  url: https://dict.youdao.com/dictvoice?type=2&audio=crept
-- name: almost
-  url: https://dict.youdao.com/dictvoice?type=2&audio=almost
-- name: fateful
-  url: https://dict.youdao.com/dictvoice?type=2&audio=fateful
-- name: mantelpiece
-  url: https://dict.youdao.com/dictvoice?type=2&audio=mantelpiece
-- name: bonnets
-  url: https://dict.youdao.com/dictvoice?type=2&audio=bonnets
-- name: blond
-  url: https://dict.youdao.com/dictvoice?type=2&audio=blond
-- name: carousel
-  url: https://dict.youdao.com/dictvoice?type=2&audio=carousel
-- name: fair
-  url: https://dict.youdao.com/dictvoice?type=2&audio=fair
-- name: held
-  url: https://dict.youdao.com/dictvoice?type=2&audio=held
-- name: Yet
-  url: https://dict.youdao.com/dictvoice?type=2&audio=Yet
-- name: asleep
-  url: https://dict.youdao.com/dictvoice?type=2&audio=asleep
-- name: awake
-  url: https://dict.youdao.com/dictvoice?type=2&audio=awake
-- name: shrill
-  url: https://dict.youdao.com/dictvoice?type=2&audio=shrill
-- name: woke
-  url: https://dict.youdao.com/dictvoice?type=2&audio=woke
-- name: rapped
-  url: https://dict.youdao.com/dictvoice?type=2&audio=rapped
+  - name: perfectly
+    url: https://dict.youdao.com/dictvoice?type=2&audio=perfectly
+  - name: hold
+    url: https://dict.youdao.com/dictvoice?type=2&audio=hold
+  - name: nonsense
+    url: https://dict.youdao.com/dictvoice?type=2&audio=nonsense
+  - name: beefy
+    url: https://dict.youdao.com/dictvoice?type=2&audio=beefy
+  - name: although
+    url: https://dict.youdao.com/dictvoice?type=2&audio=although
+  - name: mustache
+    url: https://dict.youdao.com/dictvoice?type=2&audio=mustache
+  - name: blonde
+    url: https://dict.youdao.com/dictvoice?type=2&audio=blonde
+  - name: craning
+    url: https://dict.youdao.com/dictvoice?type=2&audio=craning
+  - name: fences
+    url: https://dict.youdao.com/dictvoice?type=2&audio=fences
+  - name: shuddered
+    url: https://dict.youdao.com/dictvoice?type=2&audio=shuddered
+  - name: woke
+    url: https://dict.youdao.com/dictvoice?type=2&audio=woke
+  - name: dull
+    url: https://dict.youdao.com/dictvoice?type=2&audio=dull
+  - name: suggest
+    url: https://dict.youdao.com/dictvoice?type=2&audio=suggest
+  - name: hummed
+    url: https://dict.youdao.com/dictvoice?type=2&audio=hummed
+  - name: gossiped
+    url: https://dict.youdao.com/dictvoice?type=2&audio=gossiped
+  - name: wrestled
+    url: https://dict.youdao.com/dictvoice?type=2&audio=wrestled
+  - name: tawny
+    url: https://dict.youdao.com/dictvoice?type=2&audio=tawny
+  - name: flutter
+    url: https://dict.youdao.com/dictvoice?type=2&audio=flutter
+  - name: past
+    url: https://dict.youdao.com/dictvoice?type=2&audio=past
+  - name: past
+    url: https://dict.youdao.com/dictvoice?type=2&audio=past
 List2:
-- name: screeched
-  url: https://dict.youdao.com/dictvoice?type=2&audio=screeched
-- name: frying
-  url: https://dict.youdao.com/dictvoice?type=2&audio=frying
-- name: pan
-  url: https://dict.youdao.com/dictvoice?type=2&audio=pan
-- name: stove
-  url: https://dict.youdao.com/dictvoice?type=2&audio=stove
-- name: rolled
-  url: https://dict.youdao.com/dictvoice?type=2&audio=rolled
-- name: motorcycle
-  url: https://dict.youdao.com/dictvoice?type=2&audio=motorcycle
-- name: funny
-  url: https://dict.youdao.com/dictvoice?type=2&audio=funny
-- name: yet
-  url: https://dict.youdao.com/dictvoice?type=2&audio=yet
-- name: demanded
-  url: https://dict.youdao.com/dictvoice?type=2&audio=demanded
-- name: bacon
-  url: https://dict.youdao.com/dictvoice?type=2&audio=bacon
-- name: burn
-  url: https://dict.youdao.com/dictvoice?type=2&audio=burn
-- name: perfect
-  url: https://dict.youdao.com/dictvoice?type=2&audio=perfect
-- name: groaned
-  url: https://dict.youdao.com/dictvoice?type=2&audio=groaned
-- name: snapped
-  url: https://dict.youdao.com/dictvoice?type=2&audio=snapped
-- name: cupboard
-  url: https://dict.youdao.com/dictvoice?type=2&audio=cupboard
-- name: hall
-  url: https://dict.youdao.com/dictvoice?type=2&audio=hall
-- name: almost
-  url: https://dict.youdao.com/dictvoice?type=2&audio=almost
-- name: beneath
-  url: https://dict.youdao.com/dictvoice?type=2&audio=beneath
-- name: not to mention
-  url: https://dict.youdao.com/dictvoice?type=2&audio=not to mention
-- name: punching
-  url: https://dict.youdao.com/dictvoice?type=2&audio=punching
+  - name: briefcase
+    url: https://dict.youdao.com/dictvoice?type=2&audio=briefcase
+  - name: pecked
+    url: https://dict.youdao.com/dictvoice?type=2&audio=pecked
+  - name: cheek
+    url: https://dict.youdao.com/dictvoice?type=2&audio=cheek
+  - name: tantrum
+    url: https://dict.youdao.com/dictvoice?type=2&audio=tantrum
+  - name: cereal
+    url: https://dict.youdao.com/dictvoice?type=2&audio=cereal
+  - name: tyke
+    url: https://dict.youdao.com/dictvoice?type=2&audio=tyke
+  - name: chortled
+    url: https://dict.youdao.com/dictvoice?type=2&audio=chortled
+  - name: peculiar
+    url: https://dict.youdao.com/dictvoice?type=2&audio=peculiar
+  - name: jerked
+    url: https://dict.youdao.com/dictvoice?type=2&audio=jerked
+  - name: tabby
+    url: https://dict.youdao.com/dictvoice?type=2&audio=tabby
+  - name: trick
+    url: https://dict.youdao.com/dictvoice?type=2&audio=trick
+  - name: blinked
+    url: https://dict.youdao.com/dictvoice?type=2&audio=blinked
+  - name: around the corner
+    url: https://dict.youdao.com/dictvoice?type=2&audio=around the corner
+  - name: traffic jam
+    url: https://dict.youdao.com/dictvoice?type=2&audio=traffic jam
+  - name: cloaks
+    url: https://dict.youdao.com/dictvoice?type=2&audio=cloaks
+  - name: funny
+    url: https://dict.youdao.com/dictvoice?type=2&audio=funny
+  - name: supposed
+    url: https://dict.youdao.com/dictvoice?type=2&audio=supposed
+  - name: drummed
+    url: https://dict.youdao.com/dictvoice?type=2&audio=drummed
+  - name: steering
+    url: https://dict.youdao.com/dictvoice?type=2&audio=steering
+  - name: wheel
+    url: https://dict.youdao.com/dictvoice?type=2&audio=wheel
+List20:
+  - name: burying
+    url: https://dict.youdao.com/dictvoice?type=2&audio=burying
+  - name: poor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=poor
+  - name: grip
+    url: https://dict.youdao.com/dictvoice?type=2&audio=grip
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: whispered
+    url: https://dict.youdao.com/dictvoice?type=2&audio=whispered
+  - name: patting
+    url: https://dict.youdao.com/dictvoice?type=2&audio=patting
+  - name: gingerly
+    url: https://dict.youdao.com/dictvoice?type=2&audio=gingerly
+  - name: gently
+    url: https://dict.youdao.com/dictvoice?type=2&audio=gently
+  - name: doorstep
+    url: https://dict.youdao.com/dictvoice?type=2&audio=doorstep
+  - name: cloak
+    url: https://dict.youdao.com/dictvoice?type=2&audio=cloak
+  - name: tucked
+    url: https://dict.youdao.com/dictvoice?type=2&audio=tucked
+  - name: bundle
+    url: https://dict.youdao.com/dictvoice?type=2&audio=bundle
+  - name: shook
+    url: https://dict.youdao.com/dictvoice?type=2&audio=shook
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: blinked
+    url: https://dict.youdao.com/dictvoice?type=2&audio=blinked
+  - name: furiously
+    url: https://dict.youdao.com/dictvoice?type=2&audio=furiously
+  - name: twinkling
+    url: https://dict.youdao.com/dictvoice?type=2&audio=twinkling
+  - name: shone
+    url: https://dict.youdao.com/dictvoice?type=2&audio=shone
+  - name: muffled
+    url: https://dict.youdao.com/dictvoice?type=2&audio=muffled
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+List21:
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: Wiping
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Wiping
+  - name: streaming
+    url: https://dict.youdao.com/dictvoice?type=2&audio=streaming
+  - name: jacket
+    url: https://dict.youdao.com/dictvoice?type=2&audio=jacket
+  - name: sleeve
+    url: https://dict.youdao.com/dictvoice?type=2&audio=sleeve
+  - name: swung
+    url: https://dict.youdao.com/dictvoice?type=2&audio=swung
+  - name: motorcycle
+    url: https://dict.youdao.com/dictvoice?type=2&audio=motorcycle
+  - name: kicked
+    url: https://dict.youdao.com/dictvoice?type=2&audio=kicked
+  - name: engine
+    url: https://dict.youdao.com/dictvoice?type=2&audio=engine
+  - name: roar
+    url: https://dict.youdao.com/dictvoice?type=2&audio=roar
+  - name: shall
+    url: https://dict.youdao.com/dictvoice?type=2&audio=shall
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: nodding
+    url: https://dict.youdao.com/dictvoice?type=2&audio=nodding
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: blew
+    url: https://dict.youdao.com/dictvoice?type=2&audio=blew
+  - name: silver
+    url: https://dict.youdao.com/dictvoice?type=2&audio=silver
+  - name: sped
+    url: https://dict.youdao.com/dictvoice?type=2&audio=sped
+  - name: glowed
+    url: https://dict.youdao.com/dictvoice?type=2&audio=glowed
+  - name: tabby
+    url: https://dict.youdao.com/dictvoice?type=2&audio=tabby
+  - name: slinking
+    url: https://dict.youdao.com/dictvoice?type=2&audio=slinking
+List22:
+  - name: around the corner
+    url: https://dict.youdao.com/dictvoice?type=2&audio=around the corner
+  - name: bundle
+    url: https://dict.youdao.com/dictvoice?type=2&audio=bundle
+  - name: murmured
+    url: https://dict.youdao.com/dictvoice?type=2&audio=murmured
+  - name: heel
+    url: https://dict.youdao.com/dictvoice?type=2&audio=heel
+  - name: swish
+    url: https://dict.youdao.com/dictvoice?type=2&audio=swish
+  - name: cloak
+    url: https://dict.youdao.com/dictvoice?type=2&audio=cloak
+  - name: breeze
+    url: https://dict.youdao.com/dictvoice?type=2&audio=breeze
+  - name: ruffled
+    url: https://dict.youdao.com/dictvoice?type=2&audio=ruffled
+  - name: neat
+    url: https://dict.youdao.com/dictvoice?type=2&audio=neat
+  - name: hedges
+    url: https://dict.youdao.com/dictvoice?type=2&audio=hedges
+  - name: tidy
+    url: https://dict.youdao.com/dictvoice?type=2&audio=tidy
+  - name: inky
+    url: https://dict.youdao.com/dictvoice?type=2&audio=inky
+  - name: astonishing
+    url: https://dict.youdao.com/dictvoice?type=2&audio=astonishing
+  - name: rolled
+    url: https://dict.youdao.com/dictvoice?type=2&audio=rolled
+  - name: waking
+    url: https://dict.youdao.com/dictvoice?type=2&audio=waking
+  - name: beside
+    url: https://dict.youdao.com/dictvoice?type=2&audio=beside
+  - name: woken
+    url: https://dict.youdao.com/dictvoice?type=2&audio=woken
+  - name: prodded
+    url: https://dict.youdao.com/dictvoice?type=2&audio=prodded
+  - name: pinched
+    url: https://dict.youdao.com/dictvoice?type=2&audio=pinched
+  - name: hushed
+    url: https://dict.youdao.com/dictvoice?type=2&audio=hushed
 List3:
-- name: punching
-  url: https://dict.youdao.com/dictvoice?type=2&audio=punching
-- name: Perhaps
-  url: https://dict.youdao.com/dictvoice?type=2&audio=Perhaps
-- name: cupboard
-  url: https://dict.youdao.com/dictvoice?type=2&audio=cupboard
-- name: skinny
-  url: https://dict.youdao.com/dictvoice?type=2&audio=skinny
-- name: skinnier
-  url: https://dict.youdao.com/dictvoice?type=2&audio=skinnier
-- name: round
-  url: https://dict.youdao.com/dictvoice?type=2&audio=round
-- name: held
-  url: https://dict.youdao.com/dictvoice?type=2&audio=held
-- name: Scotch
-  url: https://dict.youdao.com/dictvoice?type=2&audio=Scotch
-- name: tape
-  url: https://dict.youdao.com/dictvoice?type=2&audio=tape
-- name: punched
-  url: https://dict.youdao.com/dictvoice?type=2&audio=punched
-- name: appearance
-  url: https://dict.youdao.com/dictvoice?type=2&audio=appearance
-- name: scar
-  url: https://dict.youdao.com/dictvoice?type=2&audio=scar
-- name: bolt
-  url: https://dict.youdao.com/dictvoice?type=2&audio=bolt
-- name: lightning
-  url: https://dict.youdao.com/dictvoice?type=2&audio=lightning
-- name: as long as
-  url: https://dict.youdao.com/dictvoice?type=2&audio=as long as
-- name: crash
-  url: https://dict.youdao.com/dictvoice?type=2&audio=crash
-- name: rule
-  url: https://dict.youdao.com/dictvoice?type=2&audio=rule
-- name: bacon
-  url: https://dict.youdao.com/dictvoice?type=2&audio=bacon
-- name: Comb
-  url: https://dict.youdao.com/dictvoice?type=2&audio=Comb
-- name: barked
-  url: https://dict.youdao.com/dictvoice?type=2&audio=barked
+  - name: huddle
+    url: https://dict.youdao.com/dictvoice?type=2&audio=huddle
+  - name: weirdos
+    url: https://dict.youdao.com/dictvoice?type=2&audio=weirdos
+  - name: quite
+    url: https://dict.youdao.com/dictvoice?type=2&audio=quite
+  - name: whispering
+    url: https://dict.youdao.com/dictvoice?type=2&audio=whispering
+  - name: enraged
+    url: https://dict.youdao.com/dictvoice?type=2&audio=enraged
+  - name: emerald
+    url: https://dict.youdao.com/dictvoice?type=2&audio=emerald
+  - name: cloak
+    url: https://dict.youdao.com/dictvoice?type=2&audio=cloak
+  - name: nerve
+    url: https://dict.youdao.com/dictvoice?type=2&audio=nerve
+  - name: struck
+    url: https://dict.youdao.com/dictvoice?type=2&audio=struck
+  - name: probably
+    url: https://dict.youdao.com/dictvoice?type=2&audio=probably
+  - name: silly
+    url: https://dict.youdao.com/dictvoice?type=2&audio=silly
+  - name: stunt
+    url: https://dict.youdao.com/dictvoice?type=2&audio=stunt
+  - name: obviously
+    url: https://dict.youdao.com/dictvoice?type=2&audio=obviously
+  - name: parking
+    url: https://dict.youdao.com/dictvoice?type=2&audio=parking
+  - name: swoop
+    url: https://dict.youdao.com/dictvoice?type=2&audio=swoop
+  - name: past
+    url: https://dict.youdao.com/dictvoice?type=2&audio=past
+  - name: in broad daylight
+    url: https://dict.youdao.com/dictvoice?type=2&audio=in broad daylight
+  - name: gazed
+    url: https://dict.youdao.com/dictvoice?type=2&audio=gazed
+  - name: sped
+    url: https://dict.youdao.com/dictvoice?type=2&audio=sped
+  - name: perfectly
+    url: https://dict.youdao.com/dictvoice?type=2&audio=perfectly
 List4:
-- name: by way of
-  url: https://dict.youdao.com/dictvoice?type=2&audio=by way of
-- name: greeting
-  url: https://dict.youdao.com/dictvoice?type=2&audio=greeting
-- name: over the top
-  url: https://dict.youdao.com/dictvoice?type=2&audio=over the top
-- name: rest
-  url: https://dict.youdao.com/dictvoice?type=2&audio=rest
-- name: simply
-  url: https://dict.youdao.com/dictvoice?type=2&audio=simply
-- name: grew
-  url: https://dict.youdao.com/dictvoice?type=2&audio=grew
-- name: frying
-  url: https://dict.youdao.com/dictvoice?type=2&audio=frying
-- name: by the time
-  url: https://dict.youdao.com/dictvoice?type=2&audio=by the time
-- name: watery
-  url: https://dict.youdao.com/dictvoice?type=2&audio=watery
-- name: blond
-  url: https://dict.youdao.com/dictvoice?type=2&audio=blond
-- name: smoothly
-  url: https://dict.youdao.com/dictvoice?type=2&audio=smoothly
-- name: wig
-  url: https://dict.youdao.com/dictvoice?type=2&audio=wig
-- name: bacon
-  url: https://dict.youdao.com/dictvoice?type=2&audio=bacon
-- name: tantrum
-  url: https://dict.youdao.com/dictvoice?type=2&audio=tantrum
-- name: wolfing
-  url: https://dict.youdao.com/dictvoice?type=2&audio=wolfing
-- name: bacon
-  url: https://dict.youdao.com/dictvoice?type=2&audio=bacon
-- name: case
-  url: https://dict.youdao.com/dictvoice?type=2&audio=case
-- name: obviously
-  url: https://dict.youdao.com/dictvoice?type=2&audio=obviously
-- name: scented
-  url: https://dict.youdao.com/dictvoice?type=2&audio=scented
-- name: grabbed
-  url: https://dict.youdao.com/dictvoice?type=2&audio=grabbed
+  - name: free
+    url: https://dict.youdao.com/dictvoice?type=2&audio=free
+  - name: stretch
+    url: https://dict.youdao.com/dictvoice?type=2&audio=stretch
+  - name: bun
+    url: https://dict.youdao.com/dictvoice?type=2&audio=bun
+  - name: cloaks
+    url: https://dict.youdao.com/dictvoice?type=2&audio=cloaks
+  - name: bunch
+    url: https://dict.youdao.com/dictvoice?type=2&audio=bunch
+  - name: whispering
+    url: https://dict.youdao.com/dictvoice?type=2&audio=whispering
+  - name: past
+    url: https://dict.youdao.com/dictvoice?type=2&audio=past
+  - name: clutching
+    url: https://dict.youdao.com/dictvoice?type=2&audio=clutching
+  - name: doughnut
+    url: https://dict.youdao.com/dictvoice?type=2&audio=doughnut
+  - name: flooded
+    url: https://dict.youdao.com/dictvoice?type=2&audio=flooded
+  - name: whisperers
+    url: https://dict.youdao.com/dictvoice?type=2&audio=whisperers
+  - name: dashed
+    url: https://dict.youdao.com/dictvoice?type=2&audio=dashed
+  - name: snapped
+    url: https://dict.youdao.com/dictvoice?type=2&audio=snapped
+  - name: secretary
+    url: https://dict.youdao.com/dictvoice?type=2&audio=secretary
+  - name: disturb
+    url: https://dict.youdao.com/dictvoice?type=2&audio=disturb
+  - name: seized
+    url: https://dict.youdao.com/dictvoice?type=2&audio=seized
+  - name: almost
+    url: https://dict.youdao.com/dictvoice?type=2&audio=almost
+  - name: dialing
+    url: https://dict.youdao.com/dictvoice?type=2&audio=dialing
+  - name: receiver
+    url: https://dict.youdao.com/dictvoice?type=2&audio=receiver
+  - name: stroked
+    url: https://dict.youdao.com/dictvoice?type=2&audio=stroked
 List5:
-- name: parcel
-  url: https://dict.youdao.com/dictvoice?type=2&audio=parcel
-- name: chuckled
-  url: https://dict.youdao.com/dictvoice?type=2&audio=chuckled
-- name: tyke
-  url: https://dict.youdao.com/dictvoice?type=2&audio=tyke
-- name: money
-  url: https://dict.youdao.com/dictvoice?type=2&audio=money
-- name: worth
-  url: https://dict.youdao.com/dictvoice?type=2&audio=worth
-- name: ruffled
-  url: https://dict.youdao.com/dictvoice?type=2&audio=ruffled
-- name: unwrap
-  url: https://dict.youdao.com/dictvoice?type=2&audio=unwrap
-- name: remote
-  url: https://dict.youdao.com/dictvoice?type=2&audio=remote
-- name: ripping
-  url: https://dict.youdao.com/dictvoice?type=2&audio=ripping
-- name: wristwatch
-  url: https://dict.youdao.com/dictvoice?type=2&audio=wristwatch
-- name: jerked
-  url: https://dict.youdao.com/dictvoice?type=2&audio=jerked
-- name: direction
-  url: https://dict.youdao.com/dictvoice?type=2&audio=direction
-- name: horror
-  url: https://dict.youdao.com/dictvoice?type=2&audio=horror
-- name: leap
-  url: https://dict.youdao.com/dictvoice?type=2&audio=leap
-- name: cabbage
-  url: https://dict.youdao.com/dictvoice?type=2&audio=cabbage
-- name: furiously
-  url: https://dict.youdao.com/dictvoice?type=2&audio=furiously
-- name: ought
-  url: https://dict.youdao.com/dictvoice?type=2&audio=ought
-- name: reminded
-  url: https://dict.youdao.com/dictvoice?type=2&audio=reminded
-- name: Paws
-  url: https://dict.youdao.com/dictvoice?type=2&audio=Paws
-- name: suggested
-  url: https://dict.youdao.com/dictvoice?type=2&audio=suggested
+  - name: mustache
+    url: https://dict.youdao.com/dictvoice?type=2&audio=mustache
+  - name: mention
+    url: https://dict.youdao.com/dictvoice?type=2&audio=mention
+  - name: all the same
+    url: https://dict.youdao.com/dictvoice?type=2&audio=all the same
+  - name: cloaks
+    url: https://dict.youdao.com/dictvoice?type=2&audio=cloaks
+  - name: grunted
+    url: https://dict.youdao.com/dictvoice?type=2&audio=grunted
+  - name: stumbled
+    url: https://dict.youdao.com/dictvoice?type=2&audio=stumbled
+  - name: almost
+    url: https://dict.youdao.com/dictvoice?type=2&audio=almost
+  - name: violet
+    url: https://dict.youdao.com/dictvoice?type=2&audio=violet
+  - name: cloak
+    url: https://dict.youdao.com/dictvoice?type=2&audio=cloak
+  - name: almost
+    url: https://dict.youdao.com/dictvoice?type=2&audio=almost
+  - name: knocked
+    url: https://dict.youdao.com/dictvoice?type=2&audio=knocked
+  - name: contrary
+    url: https://dict.youdao.com/dictvoice?type=2&audio=contrary
+  - name: split
+    url: https://dict.youdao.com/dictvoice?type=2&audio=split
+  - name: squeaky
+    url: https://dict.youdao.com/dictvoice?type=2&audio=squeaky
+  - name: passersby
+    url: https://dict.youdao.com/dictvoice?type=2&audio=passersby
+  - name: stare
+    url: https://dict.youdao.com/dictvoice?type=2&audio=stare
+  - name: Rejoice
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Rejoice
+  - name: rooted
+    url: https://dict.youdao.com/dictvoice?type=2&audio=rooted
+  - name: spot
+    url: https://dict.youdao.com/dictvoice?type=2&audio=spot
+  - name: complete
+    url: https://dict.youdao.com/dictvoice?type=2&audio=complete
 List6:
-- name: silly
-  url: https://dict.youdao.com/dictvoice?type=2&audio=silly
-- name: rather
-  url: https://dict.youdao.com/dictvoice?type=2&audio=rather
-- name: nasty
-  url: https://dict.youdao.com/dictvoice?type=2&audio=nasty
-- name: slug
-  url: https://dict.youdao.com/dictvoice?type=2&audio=slug
-- name: snapped
-  url: https://dict.youdao.com/dictvoice?type=2&audio=snapped
-- name: have a go
-  url: https://dict.youdao.com/dictvoice?type=2&audio=have a go
-- name: swallowed
-  url: https://dict.youdao.com/dictvoice?type=2&audio=swallowed
-- name: ruins
-  url: https://dict.youdao.com/dictvoice?type=2&audio=ruins
-- name: snarled
-  url: https://dict.youdao.com/dictvoice?type=2&audio=snarled
-- name: won
-  url: https://dict.youdao.com/dictvoice?type=2&audio=won
-- name: blow
-  url: https://dict.youdao.com/dictvoice?type=2&audio=blow
-- name: suppose
-  url: https://dict.youdao.com/dictvoice?type=2&audio=suppose
-- name: screwed
-  url: https://dict.youdao.com/dictvoice?type=2&audio=screwed
-- name: wailed
-  url: https://dict.youdao.com/dictvoice?type=2&audio=wailed
-- name: Dinky
-  url: https://dict.youdao.com/dictvoice?type=2&audio=Dinky
-- name: Mummy
-  url: https://dict.youdao.com/dictvoice?type=2&audio=Mummy
-- name: won
-  url: https://dict.youdao.com/dictvoice?type=2&audio=won
-- name: spoil
-  url: https://dict.youdao.com/dictvoice?type=2&audio=spoil
-- name: flinging
-  url: https://dict.youdao.com/dictvoice?type=2&audio=flinging
-- name: yelled
-  url: https://dict.youdao.com/dictvoice?type=2&audio=yelled
+  - name: rattled
+    url: https://dict.youdao.com/dictvoice?type=2&audio=rattled
+  - name: approve
+    url: https://dict.youdao.com/dictvoice?type=2&audio=approve
+  - name: driveway
+    url: https://dict.youdao.com/dictvoice?type=2&audio=driveway
+  - name: improve
+    url: https://dict.youdao.com/dictvoice?type=2&audio=improve
+  - name: tabby
+    url: https://dict.youdao.com/dictvoice?type=2&audio=tabby
+  - name: spotted
+    url: https://dict.youdao.com/dictvoice?type=2&audio=spotted
+  - name: stern
+    url: https://dict.youdao.com/dictvoice?type=2&audio=stern
+  - name: determined
+    url: https://dict.youdao.com/dictvoice?type=2&audio=determined
+  - name: not to mention
+    url: https://dict.youdao.com/dictvoice?type=2&audio=not to mention
+  - name: Next Door
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Next Door
+  - name: Won
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Won
+  - name: Although
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Although
+  - name: direction
+    url: https://dict.youdao.com/dictvoice?type=2&audio=direction
+  - name: pattern
+    url: https://dict.youdao.com/dictvoice?type=2&audio=pattern
+  - name: newscaster
+    url: https://dict.youdao.com/dictvoice?type=2&audio=newscaster
+  - name: grin
+    url: https://dict.youdao.com/dictvoice?type=2&audio=grin
+  - name: showers
+    url: https://dict.youdao.com/dictvoice?type=2&audio=showers
+  - name: weatherman
+    url: https://dict.youdao.com/dictvoice?type=2&audio=weatherman
+  - name: oddly
+    url: https://dict.youdao.com/dictvoice?type=2&audio=oddly
+  - name: downpour
+    url: https://dict.youdao.com/dictvoice?type=2&audio=downpour
 List7:
-- name: sobs
-  url: https://dict.youdao.com/dictvoice?type=2&audio=sobs
-- name: spoils
-  url: https://dict.youdao.com/dictvoice?type=2&audio=spoils
-- name: shot
-  url: https://dict.youdao.com/dictvoice?type=2&audio=shot
-- name: nasty
-  url: https://dict.youdao.com/dictvoice?type=2&audio=nasty
-- name: grin
-  url: https://dict.youdao.com/dictvoice?type=2&audio=grin
-- name: gap
-  url: https://dict.youdao.com/dictvoice?type=2&audio=gap
-- name: doorbell
-  url: https://dict.youdao.com/dictvoice?type=2&audio=doorbell
-- name: Lord
-  url: https://dict.youdao.com/dictvoice?type=2&audio=Lord
-- name: frantically
-  url: https://dict.youdao.com/dictvoice?type=2&audio=frantically
-- name: scrawny
-  url: https://dict.youdao.com/dictvoice?type=2&audio=scrawny
-- name: held
-  url: https://dict.youdao.com/dictvoice?type=2&audio=held
-- name: hit
-  url: https://dict.youdao.com/dictvoice?type=2&audio=hit
-- name: aside
-  url: https://dict.youdao.com/dictvoice?type=2&audio=aside
-- name: funny
-  url: https://dict.youdao.com/dictvoice?type=2&audio=funny
-- name: cupboard
-  url: https://dict.youdao.com/dictvoice?type=2&audio=cupboard
-- name: barbers
-  url: https://dict.youdao.com/dictvoice?type=2&audio=barbers
-- name: scissors
-  url: https://dict.youdao.com/dictvoice?type=2&audio=scissors
-- name: almost
-  url: https://dict.youdao.com/dictvoice?type=2&audio=almost
-- name: bald
-  url: https://dict.youdao.com/dictvoice?type=2&audio=bald
-- name: bangs
-  url: https://dict.youdao.com/dictvoice?type=2&audio=bangs
+  - name: shooting
+    url: https://dict.youdao.com/dictvoice?type=2&audio=shooting
+  - name: Perhaps
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Perhaps
+  - name: Bonfire
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Bonfire
+  - name: folks
+    url: https://dict.youdao.com/dictvoice?type=2&audio=folks
+  - name: Shooting
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Shooting
+  - name: cloaks
+    url: https://dict.youdao.com/dictvoice?type=2&audio=cloaks
+  - name: whisper
+    url: https://dict.youdao.com/dictvoice?type=2&audio=whisper
+  - name: whisper
+    url: https://dict.youdao.com/dictvoice?type=2&audio=whisper
+  - name: lately
+    url: https://dict.youdao.com/dictvoice?type=2&audio=lately
+  - name: shocked
+    url: https://dict.youdao.com/dictvoice?type=2&audio=shocked
+  - name: sharply
+    url: https://dict.youdao.com/dictvoice?type=2&audio=sharply
+  - name: Funny
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Funny
+  - name: stuff
+    url: https://dict.youdao.com/dictvoice?type=2&audio=stuff
+  - name: mumbled
+    url: https://dict.youdao.com/dictvoice?type=2&audio=mumbled
+  - name: shooting
+    url: https://dict.youdao.com/dictvoice?type=2&audio=shooting
+  - name: funny
+    url: https://dict.youdao.com/dictvoice?type=2&audio=funny
+  - name: snapped
+    url: https://dict.youdao.com/dictvoice?type=2&audio=snapped
+  - name: crowd
+    url: https://dict.youdao.com/dictvoice?type=2&audio=crowd
+  - name: sipped
+    url: https://dict.youdao.com/dictvoice?type=2&audio=sipped
+  - name: pursed
+    url: https://dict.youdao.com/dictvoice?type=2&audio=pursed
 List8:
-- name: horrible
-  url: https://dict.youdao.com/dictvoice?type=2&audio=horrible
-- name: scar
-  url: https://dict.youdao.com/dictvoice?type=2&audio=scar
-- name: silly
-  url: https://dict.youdao.com/dictvoice?type=2&audio=silly
-- name: sleepless
-  url: https://dict.youdao.com/dictvoice?type=2&audio=sleepless
-- name: baggy
-  url: https://dict.youdao.com/dictvoice?type=2&audio=baggy
-- name: taped
-  url: https://dict.youdao.com/dictvoice?type=2&audio=taped
-- name: sheared
-  url: https://dict.youdao.com/dictvoice?type=2&audio=sheared
-- name: cupboard
-  url: https://dict.youdao.com/dictvoice?type=2&audio=cupboard
-- name: grown
-  url: https://dict.youdao.com/dictvoice?type=2&audio=grown
-- name: force
-  url: https://dict.youdao.com/dictvoice?type=2&audio=force
-- name: revolting
-  url: https://dict.youdao.com/dictvoice?type=2&audio=revolting
-- name: sweater
-  url: https://dict.youdao.com/dictvoice?type=2&audio=sweater
-- name: puff
-  url: https://dict.youdao.com/dictvoice?type=2&audio=puff
-- name: puppet
-  url: https://dict.youdao.com/dictvoice?type=2&audio=puppet
-- name: shrunk
-  url: https://dict.youdao.com/dictvoice?type=2&audio=shrunk
-- name: wash
-  url: https://dict.youdao.com/dictvoice?type=2&audio=wash
-- name: relief
-  url: https://dict.youdao.com/dictvoice?type=2&audio=relief
-- name: punished
-  url: https://dict.youdao.com/dictvoice?type=2&audio=punished
-- name: gang
-  url: https://dict.youdao.com/dictvoice?type=2&audio=gang
-- name: chasing
-  url: https://dict.youdao.com/dictvoice?type=2&audio=chasing
+  - name: lips
+    url: https://dict.youdao.com/dictvoice?type=2&audio=lips
+  - name: casually
+    url: https://dict.youdao.com/dictvoice?type=2&audio=casually
+  - name: suppose
+    url: https://dict.youdao.com/dictvoice?type=2&audio=suppose
+  - name: stiffly
+    url: https://dict.youdao.com/dictvoice?type=2&audio=stiffly
+  - name: Nasty
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Nasty
+  - name: sinking
+    url: https://dict.youdao.com/dictvoice?type=2&audio=sinking
+  - name: horribly
+    url: https://dict.youdao.com/dictvoice?type=2&audio=horribly
+  - name: quite
+    url: https://dict.youdao.com/dictvoice?type=2&audio=quite
+  - name: subject
+    url: https://dict.youdao.com/dictvoice?type=2&audio=subject
+  - name: crept
+    url: https://dict.youdao.com/dictvoice?type=2&audio=crept
+  - name: peered
+    url: https://dict.youdao.com/dictvoice?type=2&audio=peered
+  - name: related
+    url: https://dict.youdao.com/dictvoice?type=2&audio=related
+  - name: asleep
+    url: https://dict.youdao.com/dictvoice?type=2&audio=asleep
+  - name: awake
+    url: https://dict.youdao.com/dictvoice?type=2&audio=awake
+  - name: asleep
+    url: https://dict.youdao.com/dictvoice?type=2&audio=asleep
+  - name: kind
+    url: https://dict.youdao.com/dictvoice?type=2&audio=kind
+  - name: yawned
+    url: https://dict.youdao.com/dictvoice?type=2&audio=yawned
+  - name: drifting
+    url: https://dict.youdao.com/dictvoice?type=2&audio=drifting
+  - name: sleepiness
+    url: https://dict.youdao.com/dictvoice?type=2&audio=sleepiness
+  - name: statue
+    url: https://dict.youdao.com/dictvoice?type=2&audio=statue
 List9:
-- name: chimney
-  url: https://dict.youdao.com/dictvoice?type=2&audio=chimney
-- name: received
-  url: https://dict.youdao.com/dictvoice?type=2&audio=received
-- name: headmistress
-  url: https://dict.youdao.com/dictvoice?type=2&audio=headmistress
-- name: cupboard
-  url: https://dict.youdao.com/dictvoice?type=2&audio=cupboard
-- name: trash
-  url: https://dict.youdao.com/dictvoice?type=2&audio=trash
-- name: supposed
-  url: https://dict.youdao.com/dictvoice?type=2&audio=supposed
-- name: mid
-  url: https://dict.youdao.com/dictvoice?type=2&audio=mid
-- name: worth
-  url: https://dict.youdao.com/dictvoice?type=2&audio=worth
-- name: somewhere
-  url: https://dict.youdao.com/dictvoice?type=2&audio=somewhere
-- name: cupboard
-  url: https://dict.youdao.com/dictvoice?type=2&audio=cupboard
-- name: cabbage
-  url: https://dict.youdao.com/dictvoice?type=2&audio=cabbage
-- name: council
-  url: https://dict.youdao.com/dictvoice?type=2&audio=council
-- name: subjects
-  url: https://dict.youdao.com/dictvoice?type=2&audio=subjects
-- name: motorcycles
-  url: https://dict.youdao.com/dictvoice?type=2&audio=motorcycles
-- name: roaring
-  url: https://dict.youdao.com/dictvoice?type=2&audio=roaring
-- name: maniacs
-  url: https://dict.youdao.com/dictvoice?type=2&audio=maniacs
-- name: hoodlums
-  url: https://dict.youdao.com/dictvoice?type=2&audio=hoodlums
-- name: motorcycle
-  url: https://dict.youdao.com/dictvoice?type=2&audio=motorcycle
-- name: overtook
-  url: https://dict.youdao.com/dictvoice?type=2&audio=overtook
-- name: motorcycle
-  url: https://dict.youdao.com/dictvoice?type=2&audio=motorcycle
+  - name: fixed
+    url: https://dict.youdao.com/dictvoice?type=2&audio=fixed
+  - name: quiver
+    url: https://dict.youdao.com/dictvoice?type=2&audio=quiver
+  - name: slammed
+    url: https://dict.youdao.com/dictvoice?type=2&audio=slammed
+  - name: swooped
+    url: https://dict.youdao.com/dictvoice?type=2&audio=swooped
+  - name: appeared
+    url: https://dict.youdao.com/dictvoice?type=2&audio=appeared
+  - name: appeared
+    url: https://dict.youdao.com/dictvoice?type=2&audio=appeared
+  - name: popped
+    url: https://dict.youdao.com/dictvoice?type=2&audio=popped
+  - name: tail
+    url: https://dict.youdao.com/dictvoice?type=2&audio=tail
+  - name: twitched
+    url: https://dict.youdao.com/dictvoice?type=2&audio=twitched
+  - name: narrowed
+    url: https://dict.youdao.com/dictvoice?type=2&audio=narrowed
+  - name: silver
+    url: https://dict.youdao.com/dictvoice?type=2&audio=silver
+  - name: beard
+    url: https://dict.youdao.com/dictvoice?type=2&audio=beard
+  - name: tuck
+    url: https://dict.youdao.com/dictvoice?type=2&audio=tuck
+  - name: belt
+    url: https://dict.youdao.com/dictvoice?type=2&audio=belt
+  - name: robes
+    url: https://dict.youdao.com/dictvoice?type=2&audio=robes
+  - name: cloak
+    url: https://dict.youdao.com/dictvoice?type=2&audio=cloak
+  - name: swept
+    url: https://dict.youdao.com/dictvoice?type=2&audio=swept
+  - name: heeled
+    url: https://dict.youdao.com/dictvoice?type=2&audio=heeled
+  - name: buckled
+    url: https://dict.youdao.com/dictvoice?type=2&audio=buckled
+  - name: sparkling
+    url: https://dict.youdao.com/dictvoice?type=2&audio=sparkling
 List10:
-- name: crashed
-  url: https://dict.youdao.com/dictvoice?type=2&audio=crashed
-- name: yelled
-  url: https://dict.youdao.com/dictvoice?type=2&audio=yelled
-- name: gigantic
-  url: https://dict.youdao.com/dictvoice?type=2&audio=gigantic
-- name: beet
-  url: https://dict.youdao.com/dictvoice?type=2&audio=beet
-- name: mustache
-  url: https://dict.youdao.com/dictvoice?type=2&audio=mustache
-- name: MOTORCYCLES
-  url: https://dict.youdao.com/dictvoice?type=2&audio=MOTORCYCLES
-- name: sniggered
-  url: https://dict.youdao.com/dictvoice?type=2&audio=sniggered
-- name: in a way
-  url: https://dict.youdao.com/dictvoice?type=2&audio=in a way
-- name: matter
-  url: https://dict.youdao.com/dictvoice?type=2&audio=matter
-- name: crowded
-  url: https://dict.youdao.com/dictvoice?type=2&audio=crowded
-- name: entrance
-  url: https://dict.youdao.com/dictvoice?type=2&audio=entrance
-- name: van
-  url: https://dict.youdao.com/dictvoice?type=2&audio=van
-- name: pop
-  url: https://dict.youdao.com/dictvoice?type=2&audio=pop
-- name: either
-  url: https://dict.youdao.com/dictvoice?type=2&audio=either
-- name: licking
-  url: https://dict.youdao.com/dictvoice?type=2&audio=licking
-- name: gorilla
-  url: https://dict.youdao.com/dictvoice?type=2&audio=gorilla
-- name: scratching
-  url: https://dict.youdao.com/dictvoice?type=2&audio=scratching
-- name: remarkably
-  url: https://dict.youdao.com/dictvoice?type=2&audio=remarkably
-- name: blond
-  url: https://dict.youdao.com/dictvoice?type=2&audio=blond
-- name: fall
-  url: https://dict.youdao.com/dictvoice?type=2&audio=fall
+  - name: spectacles
+    url: https://dict.youdao.com/dictvoice?type=2&audio=spectacles
+  - name: crooked
+    url: https://dict.youdao.com/dictvoice?type=2&audio=crooked
+  - name: rummaging
+    url: https://dict.youdao.com/dictvoice?type=2&audio=rummaging
+  - name: cloak
+    url: https://dict.youdao.com/dictvoice?type=2&audio=cloak
+  - name: amuse
+    url: https://dict.youdao.com/dictvoice?type=2&audio=amuse
+  - name: chuckled
+    url: https://dict.youdao.com/dictvoice?type=2&audio=chuckled
+  - name: muttered
+    url: https://dict.youdao.com/dictvoice?type=2&audio=muttered
+  - name: pocket
+    url: https://dict.youdao.com/dictvoice?type=2&audio=pocket
+  - name: silver
+    url: https://dict.youdao.com/dictvoice?type=2&audio=silver
+  - name: cigarette
+    url: https://dict.youdao.com/dictvoice?type=2&audio=cigarette
+  - name: lighter
+    url: https://dict.youdao.com/dictvoice?type=2&audio=lighter
+  - name: flicked
+    url: https://dict.youdao.com/dictvoice?type=2&audio=flicked
+  - name: held
+    url: https://dict.youdao.com/dictvoice?type=2&audio=held
+  - name: pop
+    url: https://dict.youdao.com/dictvoice?type=2&audio=pop
+  - name: flickered
+    url: https://dict.youdao.com/dictvoice?type=2&audio=flickered
+  - name: pinpricks
+    url: https://dict.youdao.com/dictvoice?type=2&audio=pinpricks
+  - name: distance
+    url: https://dict.youdao.com/dictvoice?type=2&audio=distance
+  - name: beady
+    url: https://dict.youdao.com/dictvoice?type=2&audio=beady
+  - name: pavement
+    url: https://dict.youdao.com/dictvoice?type=2&audio=pavement
+  - name: slipped
+    url: https://dict.youdao.com/dictvoice?type=2&audio=slipped
 List11:
-- name: hitting
-  url: https://dict.youdao.com/dictvoice?type=2&audio=hitting
-- name: tantrum
-  url: https://dict.youdao.com/dictvoice?type=2&audio=tantrum
-- name: glory
-  url: https://dict.youdao.com/dictvoice?type=2&audio=glory
-- name: felt
-  url: https://dict.youdao.com/dictvoice?type=2&audio=felt
-- name: afterward
-  url: https://dict.youdao.com/dictvoice?type=2&audio=afterward
-- name: reptile
-  url: https://dict.youdao.com/dictvoice?type=2&audio=reptile
-- name: lit
-  url: https://dict.youdao.com/dictvoice?type=2&audio=lit
-- name: sorts
-  url: https://dict.youdao.com/dictvoice?type=2&audio=sorts
-- name: lizards
-  url: https://dict.youdao.com/dictvoice?type=2&audio=lizards
-- name: crawling
-  url: https://dict.youdao.com/dictvoice?type=2&audio=crawling
-- name: slithering
-  url: https://dict.youdao.com/dictvoice?type=2&audio=slithering
-- name: poisonous
-  url: https://dict.youdao.com/dictvoice?type=2&audio=poisonous
-- name: cobras
-  url: https://dict.youdao.com/dictvoice?type=2&audio=cobras
-- name: crushing
-  url: https://dict.youdao.com/dictvoice?type=2&audio=crushing
-- name: pythons
-  url: https://dict.youdao.com/dictvoice?type=2&audio=pythons
-- name: wrapped
-  url: https://dict.youdao.com/dictvoice?type=2&audio=wrapped
-- name: crushed
-  url: https://dict.youdao.com/dictvoice?type=2&audio=crushed
-- name: trash
-  url: https://dict.youdao.com/dictvoice?type=2&audio=trash
-- name: asleep
-  url: https://dict.youdao.com/dictvoice?type=2&audio=asleep
-- name: pressed
-  url: https://dict.youdao.com/dictvoice?type=2&audio=pressed
+  - name: cloak
+    url: https://dict.youdao.com/dictvoice?type=2&audio=cloak
+  - name: Fancy
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Fancy
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: tabby
+    url: https://dict.youdao.com/dictvoice?type=2&audio=tabby
+  - name: rather
+    url: https://dict.youdao.com/dictvoice?type=2&audio=rather
+  - name: severe
+    url: https://dict.youdao.com/dictvoice?type=2&audio=severe
+  - name: square
+    url: https://dict.youdao.com/dictvoice?type=2&audio=square
+  - name: cloak
+    url: https://dict.youdao.com/dictvoice?type=2&audio=cloak
+  - name: emerald
+    url: https://dict.youdao.com/dictvoice?type=2&audio=emerald
+  - name: drawn
+    url: https://dict.youdao.com/dictvoice?type=2&audio=drawn
+  - name: tight
+    url: https://dict.youdao.com/dictvoice?type=2&audio=tight
+  - name: bun
+    url: https://dict.youdao.com/dictvoice?type=2&audio=bun
+  - name: distinctly
+    url: https://dict.youdao.com/dictvoice?type=2&audio=distinctly
+  - name: ruffled
+    url: https://dict.youdao.com/dictvoice?type=2&audio=ruffled
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: stiffly
+    url: https://dict.youdao.com/dictvoice?type=2&audio=stiffly
+  - name: stiff
+    url: https://dict.youdao.com/dictvoice?type=2&audio=stiff
+  - name: brick
+    url: https://dict.youdao.com/dictvoice?type=2&audio=brick
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: feasts
+    url: https://dict.youdao.com/dictvoice?type=2&audio=feasts
 List12:
-- name: against
-  url: https://dict.youdao.com/dictvoice?type=2&audio=against
-- name: glistening
-  url: https://dict.youdao.com/dictvoice?type=2&audio=glistening
-- name: coils
-  url: https://dict.youdao.com/dictvoice?type=2&audio=coils
-- name: whined
-  url: https://dict.youdao.com/dictvoice?type=2&audio=whined
-- name: tapped
-  url: https://dict.youdao.com/dictvoice?type=2&audio=tapped
-- name: budge
-  url: https://dict.youdao.com/dictvoice?type=2&audio=budge
-- name: rapped
-  url: https://dict.youdao.com/dictvoice?type=2&audio=rapped
-- name: smartly
-  url: https://dict.youdao.com/dictvoice?type=2&audio=smartly
-- name: knuckles
-  url: https://dict.youdao.com/dictvoice?type=2&audio=knuckles
-- name: snoozed
-  url: https://dict.youdao.com/dictvoice?type=2&audio=snoozed
-- name: moaned
-  url: https://dict.youdao.com/dictvoice?type=2&audio=moaned
-- name: shuffled
-  url: https://dict.youdao.com/dictvoice?type=2&audio=shuffled
-- name: intently
-  url: https://dict.youdao.com/dictvoice?type=2&audio=intently
-- name: boredom
-  url: https://dict.youdao.com/dictvoice?type=2&audio=boredom
-- name: company
-  url: https://dict.youdao.com/dictvoice?type=2&audio=company
-- name: drumming
-  url: https://dict.youdao.com/dictvoice?type=2&audio=drumming
-- name: disturb
-  url: https://dict.youdao.com/dictvoice?type=2&audio=disturb
-- name: cupboard
-  url: https://dict.youdao.com/dictvoice?type=2&audio=cupboard
-- name: hammering
-  url: https://dict.youdao.com/dictvoice?type=2&audio=hammering
-- name: wake
-  url: https://dict.youdao.com/dictvoice?type=2&audio=wake
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: sniffed
+    url: https://dict.youdao.com/dictvoice?type=2&audio=sniffed
+  - name: impatiently
+    url: https://dict.youdao.com/dictvoice?type=2&audio=impatiently
+  - name: jerked
+    url: https://dict.youdao.com/dictvoice?type=2&audio=jerked
+  - name: Flocks
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Flocks
+  - name: shooting
+    url: https://dict.youdao.com/dictvoice?type=2&audio=shooting
+  - name: completely
+    url: https://dict.youdao.com/dictvoice?type=2&audio=completely
+  - name: bound
+    url: https://dict.youdao.com/dictvoice?type=2&audio=bound
+  - name: Shooting
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Shooting
+  - name: sense
+    url: https://dict.youdao.com/dictvoice?type=2&audio=sense
+  - name: gently
+    url: https://dict.youdao.com/dictvoice?type=2&audio=gently
+  - name: precious
+    url: https://dict.youdao.com/dictvoice?type=2&audio=precious
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: irritably
+    url: https://dict.youdao.com/dictvoice?type=2&audio=irritably
+  - name: downright
+    url: https://dict.youdao.com/dictvoice?type=2&audio=downright
+  - name: in broad daylight
+    url: https://dict.youdao.com/dictvoice?type=2&audio=in broad daylight
+  - name: swapping
+    url: https://dict.youdao.com/dictvoice?type=2&audio=swapping
+  - name: rumors
+    url: https://dict.youdao.com/dictvoice?type=2&audio=rumors
+  - name: sideways
+    url: https://dict.youdao.com/dictvoice?type=2&audio=sideways
+  - name: disappeared
+    url: https://dict.youdao.com/dictvoice?type=2&audio=disappeared
 List13:
-- name: rest
-  url: https://dict.youdao.com/dictvoice?type=2&audio=rest
-- name: beady
-  url: https://dict.youdao.com/dictvoice?type=2&audio=beady
-- name: raised
-  url: https://dict.youdao.com/dictvoice?type=2&audio=raised
-- name: winked
-  url: https://dict.youdao.com/dictvoice?type=2&audio=winked
-- name: winked
-  url: https://dict.youdao.com/dictvoice?type=2&audio=winked
-- name: jerked
-  url: https://dict.youdao.com/dictvoice?type=2&audio=jerked
-- name: raised
-  url: https://dict.youdao.com/dictvoice?type=2&audio=raised
-- name: ceiling
-  url: https://dict.youdao.com/dictvoice?type=2&audio=ceiling
-- name: quite
-  url: https://dict.youdao.com/dictvoice?type=2&audio=quite
-- name: plainly
-  url: https://dict.youdao.com/dictvoice?type=2&audio=plainly
-- name: murmured
-  url: https://dict.youdao.com/dictvoice?type=2&audio=murmured
-- name: annoying
-  url: https://dict.youdao.com/dictvoice?type=2&audio=annoying
-- name: nodded
-  url: https://dict.youdao.com/dictvoice?type=2&audio=nodded
-- name: vigorously
-  url: https://dict.youdao.com/dictvoice?type=2&audio=vigorously
-- name: anyway
-  url: https://dict.youdao.com/dictvoice?type=2&audio=anyway
-- name: jabbed
-  url: https://dict.youdao.com/dictvoice?type=2&audio=jabbed
-- name: tail
-  url: https://dict.youdao.com/dictvoice?type=2&audio=tail
-- name: peered
-  url: https://dict.youdao.com/dictvoice?type=2&audio=peered
-- name: Boa
-  url: https://dict.youdao.com/dictvoice?type=2&audio=Boa
-- name: Constrictor
-  url: https://dict.youdao.com/dictvoice?type=2&audio=Constrictor
+  - name: suppose
+    url: https://dict.youdao.com/dictvoice?type=2&audio=suppose
+  - name: care
+    url: https://dict.youdao.com/dictvoice?type=2&audio=care
+  - name: drop
+    url: https://dict.youdao.com/dictvoice?type=2&audio=drop
+  - name: drop
+    url: https://dict.youdao.com/dictvoice?type=2&audio=drop
+  - name: kind
+    url: https://dict.youdao.com/dictvoice?type=2&audio=kind
+  - name: rather
+    url: https://dict.youdao.com/dictvoice?type=2&audio=rather
+  - name: fond
+    url: https://dict.youdao.com/dictvoice?type=2&audio=fond
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: drops
+    url: https://dict.youdao.com/dictvoice?type=2&audio=drops
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: sensible
+    url: https://dict.youdao.com/dictvoice?type=2&audio=sensible
+  - name: nonsense
+    url: https://dict.youdao.com/dictvoice?type=2&audio=nonsense
+  - name: proper
+    url: https://dict.youdao.com/dictvoice?type=2&audio=proper
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: flinched
+    url: https://dict.youdao.com/dictvoice?type=2&audio=flinched
+  - name: drops
+    url: https://dict.youdao.com/dictvoice?type=2&audio=drops
+  - name: confusing
+    url: https://dict.youdao.com/dictvoice?type=2&audio=confusing
+  - name: frightened
+    url: https://dict.youdao.com/dictvoice?type=2&audio=frightened
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: exasperated
+    url: https://dict.youdao.com/dictvoice?type=2&audio=exasperated
 List14:
-- name: Brazil
-  url: https://dict.youdao.com/dictvoice?type=2&audio=Brazil
-- name: boa
-  url: https://dict.youdao.com/dictvoice?type=2&audio=boa
-- name: constrictor
-  url: https://dict.youdao.com/dictvoice?type=2&audio=constrictor
-- name: jabbed
-  url: https://dict.youdao.com/dictvoice?type=2&audio=jabbed
-- name: tail
-  url: https://dict.youdao.com/dictvoice?type=2&audio=tail
-- name: specimen
-  url: https://dict.youdao.com/dictvoice?type=2&audio=specimen
-- name: bred
-  url: https://dict.youdao.com/dictvoice?type=2&audio=bred
-- name: Brazil
-  url: https://dict.youdao.com/dictvoice?type=2&audio=Brazil
-- name: shook
-  url: https://dict.youdao.com/dictvoice?type=2&audio=shook
-- name: deafening
-  url: https://dict.youdao.com/dictvoice?type=2&audio=deafening
-- name: WON
-  url: https://dict.youdao.com/dictvoice?type=2&audio=WON
-- name: waddling
-  url: https://dict.youdao.com/dictvoice?type=2&audio=waddling
-- name: punching
-  url: https://dict.youdao.com/dictvoice?type=2&audio=punching
-- name: ribs
-  url: https://dict.youdao.com/dictvoice?type=2&audio=ribs
-- name: concrete
-  url: https://dict.youdao.com/dictvoice?type=2&audio=concrete
-- name: leaning
-  url: https://dict.youdao.com/dictvoice?type=2&audio=leaning
-- name: leapt
-  url: https://dict.youdao.com/dictvoice?type=2&audio=leapt
-- name: howls
-  url: https://dict.youdao.com/dictvoice?type=2&audio=howls
-- name: horror
-  url: https://dict.youdao.com/dictvoice?type=2&audio=horror
-- name: gasped
-  url: https://dict.youdao.com/dictvoice?type=2&audio=gasped
+  - name: frightened
+    url: https://dict.youdao.com/dictvoice?type=2&audio=frightened
+  - name: flatter
+    url: https://dict.youdao.com/dictvoice?type=2&audio=flatter
+  - name: noble
+    url: https://dict.youdao.com/dictvoice?type=2&audio=noble
+  - name: blushed
+    url: https://dict.youdao.com/dictvoice?type=2&audio=blushed
+  - name: earmuffs
+    url: https://dict.youdao.com/dictvoice?type=2&audio=earmuffs
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: shot
+    url: https://dict.youdao.com/dictvoice?type=2&audio=shot
+  - name: rumors
+    url: https://dict.youdao.com/dictvoice?type=2&audio=rumors
+  - name: disappeared
+    url: https://dict.youdao.com/dictvoice?type=2&audio=disappeared
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: anxious
+    url: https://dict.youdao.com/dictvoice?type=2&audio=anxious
+  - name: discuss
+    url: https://dict.youdao.com/dictvoice?type=2&audio=discuss
+  - name: neither
+    url: https://dict.youdao.com/dictvoice?type=2&audio=neither
+  - name: fixed
+    url: https://dict.youdao.com/dictvoice?type=2&audio=fixed
+  - name: piercing
+    url: https://dict.youdao.com/dictvoice?type=2&audio=piercing
+  - name: stare
+    url: https://dict.youdao.com/dictvoice?type=2&audio=stare
+  - name: plain
+    url: https://dict.youdao.com/dictvoice?type=2&audio=plain
+  - name: drop
+    url: https://dict.youdao.com/dictvoice?type=2&audio=drop
+  - name: pressed
+    url: https://dict.youdao.com/dictvoice?type=2&audio=pressed
+  - name: Hollow
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Hollow
 List15:
-- name: boa
-  url: https://dict.youdao.com/dictvoice?type=2&audio=boa
-- name: constrictor
-  url: https://dict.youdao.com/dictvoice?type=2&audio=constrictor
-- name: vanished
-  url: https://dict.youdao.com/dictvoice?type=2&audio=vanished
-- name: uncoiling
-  url: https://dict.youdao.com/dictvoice?type=2&audio=uncoiling
-- name: rapidly
-  url: https://dict.youdao.com/dictvoice?type=2&audio=rapidly
-- name: slithering
-  url: https://dict.youdao.com/dictvoice?type=2&audio=slithering
-- name: throughout
-  url: https://dict.youdao.com/dictvoice?type=2&audio=throughout
-- name: reptile
-  url: https://dict.youdao.com/dictvoice?type=2&audio=reptile
-- name: exits
-  url: https://dict.youdao.com/dictvoice?type=2&audio=exits
-- name: slid
-  url: https://dict.youdao.com/dictvoice?type=2&audio=slid
-- name: swiftly
-  url: https://dict.youdao.com/dictvoice?type=2&audio=swiftly
-- name: past
-  url: https://dict.youdao.com/dictvoice?type=2&audio=past
-- name: sworn
-  url: https://dict.youdao.com/dictvoice?type=2&audio=sworn
-- name: hissing
-  url: https://dict.youdao.com/dictvoice?type=2&audio=hissing
-- name: Brazil
-  url: https://dict.youdao.com/dictvoice?type=2&audio=Brazil
-- name: amigo
-  url: https://dict.youdao.com/dictvoice?type=2&audio=amigo
-- name: keeper
-  url: https://dict.youdao.com/dictvoice?type=2&audio=keeper
-- name: reptile
-  url: https://dict.youdao.com/dictvoice?type=2&audio=reptile
-- name: shock
-  url: https://dict.youdao.com/dictvoice?type=2&audio=shock
-- name: apologized
-  url: https://dict.youdao.com/dictvoice?type=2&audio=apologized
+  - name: rumor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=rumor
+  - name: bowed
+    url: https://dict.youdao.com/dictvoice?type=2&audio=bowed
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: gasped
+    url: https://dict.youdao.com/dictvoice?type=2&audio=gasped
+  - name: patted
+    url: https://dict.youdao.com/dictvoice?type=2&audio=patted
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: trembled
+    url: https://dict.youdao.com/dictvoice?type=2&audio=trembled
+  - name: somehow
+    url: https://dict.youdao.com/dictvoice?type=2&audio=somehow
+  - name: broke
+    url: https://dict.youdao.com/dictvoice?type=2&audio=broke
+  - name: nodded
+    url: https://dict.youdao.com/dictvoice?type=2&audio=nodded
+  - name: glumly
+    url: https://dict.youdao.com/dictvoice?type=2&audio=glumly
+  - name: faltered
+    url: https://dict.youdao.com/dictvoice?type=2&audio=faltered
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: astounding
+    url: https://dict.youdao.com/dictvoice?type=2&audio=astounding
+  - name: in the name of
+    url: https://dict.youdao.com/dictvoice?type=2&audio=in the name of
+  - name: heaven
+    url: https://dict.youdao.com/dictvoice?type=2&audio=heaven
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: lace
+    url: https://dict.youdao.com/dictvoice?type=2&audio=lace
+  - name: handkerchief
+    url: https://dict.youdao.com/dictvoice?type=2&audio=handkerchief
+  - name: dabbed
+    url: https://dict.youdao.com/dictvoice?type=2&audio=dabbed
 List16:
-- name: over and over
-  url: https://dict.youdao.com/dictvoice?type=2&audio=over and over
-- name: gibber
-  url: https://dict.youdao.com/dictvoice?type=2&audio=gibber
-- name: As far as
-  url: https://dict.youdao.com/dictvoice?type=2&audio=As far as
-- name: snap
-  url: https://dict.youdao.com/dictvoice?type=2&audio=snap
-- name: playfully
-  url: https://dict.youdao.com/dictvoice?type=2&audio=playfully
-- name: heels
-  url: https://dict.youdao.com/dictvoice?type=2&audio=heels
-- name: by the time
-  url: https://dict.youdao.com/dictvoice?type=2&audio=by the time
-- name: bitten
-  url: https://dict.youdao.com/dictvoice?type=2&audio=bitten
-- name: swearing
-  url: https://dict.youdao.com/dictvoice?type=2&audio=swearing
-- name: squeeze
-  url: https://dict.youdao.com/dictvoice?type=2&audio=squeeze
-- name: calming
-  url: https://dict.youdao.com/dictvoice?type=2&audio=calming
-- name: managed
-  url: https://dict.youdao.com/dictvoice?type=2&audio=managed
-- name: cupboard
-  url: https://dict.youdao.com/dictvoice?type=2&audio=cupboard
-- name: meals
-  url: https://dict.youdao.com/dictvoice?type=2&audio=meals
-- name: collapsed
-  url: https://dict.youdao.com/dictvoice?type=2&audio=collapsed
-- name: brandy
-  url: https://dict.youdao.com/dictvoice?type=2&audio=brandy
-- name: cupboard
-  url: https://dict.youdao.com/dictvoice?type=2&audio=cupboard
-- name: asleep
-  url: https://dict.youdao.com/dictvoice?type=2&audio=asleep
-- name: yet
-  url: https://dict.youdao.com/dictvoice?type=2&audio=yet
-- name: risk
-  url: https://dict.youdao.com/dictvoice?type=2&audio=risk
+  - name: beneath
+    url: https://dict.youdao.com/dictvoice?type=2&audio=beneath
+  - name: spectacles
+    url: https://dict.youdao.com/dictvoice?type=2&audio=spectacles
+  - name: sniff
+    url: https://dict.youdao.com/dictvoice?type=2&audio=sniff
+  - name: pocket
+    url: https://dict.youdao.com/dictvoice?type=2&audio=pocket
+  - name: odd
+    url: https://dict.youdao.com/dictvoice?type=2&audio=odd
+  - name: planets
+    url: https://dict.youdao.com/dictvoice?type=2&audio=planets
+  - name: sense
+    url: https://dict.youdao.com/dictvoice?type=2&audio=sense
+  - name: pocket
+    url: https://dict.youdao.com/dictvoice?type=2&audio=pocket
+  - name: suppose
+    url: https://dict.youdao.com/dictvoice?type=2&audio=suppose
+  - name: by the way
+    url: https://dict.youdao.com/dictvoice?type=2&audio=by the way
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: suppose
+    url: https://dict.youdao.com/dictvoice?type=2&audio=suppose
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: kicking
+    url: https://dict.youdao.com/dictvoice?type=2&audio=kicking
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: faintly
+    url: https://dict.youdao.com/dictvoice?type=2&audio=faintly
+  - name: legend
+    url: https://dict.youdao.com/dictvoice?type=2&audio=legend
+  - name: seriously
+    url: https://dict.youdao.com/dictvoice?type=2&audio=seriously
+  - name: over the top
+    url: https://dict.youdao.com/dictvoice?type=2&audio=over the top
+  - name: won
+    url: https://dict.youdao.com/dictvoice?type=2&audio=won
 List17:
-- name: sneaking
-  url: https://dict.youdao.com/dictvoice?type=2&audio=sneaking
-- name: almost
-  url: https://dict.youdao.com/dictvoice?type=2&audio=almost
-- name: miserable
-  url: https://dict.youdao.com/dictvoice?type=2&audio=miserable
-- name: as long as
-  url: https://dict.youdao.com/dictvoice?type=2&audio=as long as
-- name: crash
-  url: https://dict.youdao.com/dictvoice?type=2&audio=crash
-- name: strained
-  url: https://dict.youdao.com/dictvoice?type=2&audio=strained
-- name: memory
-  url: https://dict.youdao.com/dictvoice?type=2&audio=memory
-- name: cupboard
-  url: https://dict.youdao.com/dictvoice?type=2&audio=cupboard
-- name: vision
-  url: https://dict.youdao.com/dictvoice?type=2&audio=vision
-- name: blinding
-  url: https://dict.youdao.com/dictvoice?type=2&audio=blinding
-- name: flash
-  url: https://dict.youdao.com/dictvoice?type=2&audio=flash
-- name: burn
-  url: https://dict.youdao.com/dictvoice?type=2&audio=burn
-- name: pain
-  url: https://dict.youdao.com/dictvoice?type=2&audio=pain
-- name: supposed
-  url: https://dict.youdao.com/dictvoice?type=2&audio=supposed
-- name: crash
-  url: https://dict.youdao.com/dictvoice?type=2&audio=crash
-- name: forbidden
-  url: https://dict.youdao.com/dictvoice?type=2&audio=forbidden
-- name: relation
-  url: https://dict.youdao.com/dictvoice?type=2&audio=relation
-- name: Yet
-  url: https://dict.youdao.com/dictvoice?type=2&audio=Yet
-- name: violet
-  url: https://dict.youdao.com/dictvoice?type=2&audio=violet
-- name: top hat
-  url: https://dict.youdao.com/dictvoice?type=2&audio=top hat
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: swallowed
+    url: https://dict.youdao.com/dictvoice?type=2&audio=swallowed
+  - name: cloak
+    url: https://dict.youdao.com/dictvoice?type=2&audio=cloak
+  - name: underneath
+    url: https://dict.youdao.com/dictvoice?type=2&audio=underneath
+  - name: wise
+    url: https://dict.youdao.com/dictvoice?type=2&audio=wise
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: grudgingly
+    url: https://dict.youdao.com/dictvoice?type=2&audio=grudgingly
+  - name: what was that
+    url: https://dict.youdao.com/dictvoice?type=2&audio=what was that
+  - name: rumbling
+    url: https://dict.youdao.com/dictvoice?type=2&audio=rumbling
+  - name: grew
+    url: https://dict.youdao.com/dictvoice?type=2&audio=grew
+  - name: steadily
+    url: https://dict.youdao.com/dictvoice?type=2&audio=steadily
+  - name: headlight
+    url: https://dict.youdao.com/dictvoice?type=2&audio=headlight
+  - name: swelled
+    url: https://dict.youdao.com/dictvoice?type=2&audio=swelled
+  - name: roar
+    url: https://dict.youdao.com/dictvoice?type=2&audio=roar
+  - name: motorcycle
+    url: https://dict.youdao.com/dictvoice?type=2&audio=motorcycle
+  - name: motorcycle
+    url: https://dict.youdao.com/dictvoice?type=2&audio=motorcycle
+  - name: astride
+    url: https://dict.youdao.com/dictvoice?type=2&audio=astride
+  - name: almost
+    url: https://dict.youdao.com/dictvoice?type=2&audio=almost
+  - name: simply
+    url: https://dict.youdao.com/dictvoice?type=2&audio=simply
+  - name: wild
+    url: https://dict.youdao.com/dictvoice?type=2&audio=wild
 List18:
-- name: bowed
-  url: https://dict.youdao.com/dictvoice?type=2&audio=bowed
-- name: furiously
-  url: https://dict.youdao.com/dictvoice?type=2&audio=furiously
-- name: rushed
-  url: https://dict.youdao.com/dictvoice?type=2&audio=rushed
-- name: wild
-  url: https://dict.youdao.com/dictvoice?type=2&audio=wild
-- name: waved
-  url: https://dict.youdao.com/dictvoice?type=2&audio=waved
-- name: merrily
-  url: https://dict.youdao.com/dictvoice?type=2&audio=merrily
-- name: bald
-  url: https://dict.youdao.com/dictvoice?type=2&audio=bald
-- name: actually
-  url: https://dict.youdao.com/dictvoice?type=2&audio=actually
-- name: the other day
-  url: https://dict.youdao.com/dictvoice?type=2&audio=the other day
-- name: weirdest
-  url: https://dict.youdao.com/dictvoice?type=2&audio=weirdest
-- name: vanish
-  url: https://dict.youdao.com/dictvoice?type=2&audio=vanish
-- name: closer
-  url: https://dict.youdao.com/dictvoice?type=2&audio=closer
-- name: gang
-  url: https://dict.youdao.com/dictvoice?type=2&audio=gang
-- name: odd
-  url: https://dict.youdao.com/dictvoice?type=2&audio=odd
-- name: baggy
-  url: https://dict.youdao.com/dictvoice?type=2&audio=baggy
-- name: gang
-  url: https://dict.youdao.com/dictvoice?type=2&audio=gang
-
+  - name: tangles
+    url: https://dict.youdao.com/dictvoice?type=2&audio=tangles
+  - name: bushy
+    url: https://dict.youdao.com/dictvoice?type=2&audio=bushy
+  - name: beard
+    url: https://dict.youdao.com/dictvoice?type=2&audio=beard
+  - name: trash
+    url: https://dict.youdao.com/dictvoice?type=2&audio=trash
+  - name: lids
+    url: https://dict.youdao.com/dictvoice?type=2&audio=lids
+  - name: leather
+    url: https://dict.youdao.com/dictvoice?type=2&audio=leather
+  - name: dolphins
+    url: https://dict.youdao.com/dictvoice?type=2&audio=dolphins
+  - name: vast
+    url: https://dict.youdao.com/dictvoice?type=2&audio=vast
+  - name: muscular
+    url: https://dict.youdao.com/dictvoice?type=2&audio=muscular
+  - name: bundle
+    url: https://dict.youdao.com/dictvoice?type=2&audio=bundle
+  - name: motorcycle
+    url: https://dict.youdao.com/dictvoice?type=2&audio=motorcycle
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: motorcycle
+    url: https://dict.youdao.com/dictvoice?type=2&audio=motorcycle
+  - name: almost
+    url: https://dict.youdao.com/dictvoice?type=2&audio=almost
+  - name: asleep
+    url: https://dict.youdao.com/dictvoice?type=2&audio=asleep
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: bundle
+    url: https://dict.youdao.com/dictvoice?type=2&audio=bundle
+  - name: visible
+    url: https://dict.youdao.com/dictvoice?type=2&audio=visible
+  - name: asleep
+    url: https://dict.youdao.com/dictvoice?type=2&audio=asleep
+  - name: tuft
+    url: https://dict.youdao.com/dictvoice?type=2&audio=tuft
+List19:
+  - name: jet
+    url: https://dict.youdao.com/dictvoice?type=2&audio=jet
+  - name: curiously
+    url: https://dict.youdao.com/dictvoice?type=2&audio=curiously
+  - name: bolt
+    url: https://dict.youdao.com/dictvoice?type=2&audio=bolt
+  - name: lightning
+    url: https://dict.youdao.com/dictvoice?type=2&audio=lightning
+  - name: whispered
+    url: https://dict.youdao.com/dictvoice?type=2&audio=whispered
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: scar
+    url: https://dict.youdao.com/dictvoice?type=2&audio=scar
+  - name: Scars
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Scars
+  - name: handy
+    url: https://dict.youdao.com/dictvoice?type=2&audio=handy
+  - name: perfect
+    url: https://dict.youdao.com/dictvoice?type=2&audio=perfect
+  - name: shaggy
+    url: https://dict.youdao.com/dictvoice?type=2&audio=shaggy
+  - name: scratchy
+    url: https://dict.youdao.com/dictvoice?type=2&audio=scratchy
+  - name: howl
+    url: https://dict.youdao.com/dictvoice?type=2&audio=howl
+  - name: wounded
+    url: https://dict.youdao.com/dictvoice?type=2&audio=wounded
+  - name: hissed
+    url: https://dict.youdao.com/dictvoice?type=2&audio=hissed
+  - name: Professor
+    url: https://dict.youdao.com/dictvoice?type=2&audio=Professor
+  - name: wake
+    url: https://dict.youdao.com/dictvoice?type=2&audio=wake
+  - name: sobbed
+    url: https://dict.youdao.com/dictvoice?type=2&audio=sobbed
+  - name: spotted
+    url: https://dict.youdao.com/dictvoice?type=2&audio=spotted
+  - name: handkerchief
+    url: https://dict.youdao.com/dictvoice?type=2&audio=handkerchief
