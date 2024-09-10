@@ -1,7 +1,7 @@
 ideas:
   name: ideas
-  description: False
-  cover: False
+  description: 有关我的碎碎念
+  cover: assets/images/speeches.jpg
 summary:
   name: summary
   description: 每周总结，分享自己最近的收获和感悟。
