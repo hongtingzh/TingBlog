@@ -1,0 +1,60 @@
+---
+layout: default
+current: tag
+title: Tag Page
+<!-- cover: assets/images/speeches.jpg -->
+class: 'tag-template'
+navigation: True
+logo: 'assets/images/ghost.png'
+tag: ideas
+---
+
+<!-- default -->
+<!-- The tag above means - insert everything in this file into the {body} of the default.hbs template -->
+
+<!-- The big featured header, it uses blog cover image as a BG if available -->
+<!-- #tag -->
+
+
+<!-- style="display: none;" -->
+{% assign tag_posts = site.tags["ideas"] %}
+{% for tag in site.data.tags %}
+    {% if tag[1].name == page.tag %}
+        {% if tag[1].cover %}
+            {% assign tag_cover = tag[1].cover %}
+            
+        {% endif %}
+        {% if tag[1].description %}
+            {% assign tag_description = tag[1].description %}
+        {% endif %}
+    {% endif %}
+{% endfor %}
+
+<header  class="site-header outer " style="background-image: url('{{ site.baseurl }}{{ tag_cover }}');">
+    <div class="inner">
+        {% include site-nav.html %}
+        <div class="site-header-content">
+            <h1 class="site-title">{{ page.tag | capitalize }}</h1>
+            <h2 class="site-description">
+                {% if tag_description %}
+                    {{ tag_description }}
+                {% elsif page.tag %}
+    			    A collection of {{ tag_posts.size }} posts
+                {% endif %}
+            </h2>
+        </div>
+    </div>
+</header>
+<!-- tag -->
+
+<!-- The main content area -->
+<main id="site-main" class="site-main outer" role="main">
+    <div class="inner">
+        <div class="post-feed" id="post-feed">
+            
+            {% include tag-post-card.html post=tag_posts %}
+
+        </div>
+    </div>
+</main>
+
