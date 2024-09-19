@@ -72,6 +72,9 @@ collections:
   Harry Potter:
     output: true
     permalink: /Harry-Potter/:Harry-Potter
+  ideas:
+    output: true
+    permalink: /Harry-Potter/:ideas
 
 
 # Exclude from processing.
